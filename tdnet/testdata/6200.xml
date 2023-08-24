@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>有報キャッチャー - 適時開示情報配信サービス</title>
+  <link href="http://resource.ufocatch.com/" />
+  <updated>2018-02-09T20:54:50Z</updated>
+  <id>http://resource.ufocatch.com/atom/tdnetx/query/62000</id>
+  <entry>
+    <title>【62000】株式会社インソース 平成30年９月期 第１四半期決算短信〔日本基準〕（連結）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2018020200394" />
+    <id>TD2018020200394</id>
+    <updated>2018-02-02T16:10:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2018020200394" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/0101010-qcbs01-tse-qcedjpfr-62000-2017-12-31-01-2018-02-02-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/0102010-qcpl11-tse-qcedjpfr-62000-2017-12-31-01-2018-02-02-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/0102020-qcci11-tse-qcedjpfr-62000-2017-12-31-01-2018-02-02-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Summary/tse-qcedjpsm-62000-20180202362000-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Summary/tse-qcedjpsm-62000-20180202362000-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Summary/tse-qcedjpsm-62000-20180202362000.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/tse-qcedjpfr-62000-2017-12-31-01-2018-02-02-def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/tse-qcedjpfr-62000-2017-12-31-01-2018-02-02-pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/tse-qcedjpfr-62000-2017-12-31-01-2018-02-02.xsd" />
+    <link rel="related" type="text/plain" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/index.txt" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/manifest.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2018020200394/2018/2/2/081220180201462046/XBRLData/Attachment/tse-qcedjpfr-62000-2017-12-31-01-2018-02-02-cal.xml" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 平成29年９月期　決算短信〔日本基準〕（連結）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2017111000914" />
+    <id>TD2017111000914</id>
+    <updated>2017-11-10T16:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2017111000914" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0102020-acci01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0102010-acpl01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0104010-accf01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0103010-acss01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Summary/tse-acedjpsm-62000-20171110362000-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Summary/tse-acedjpsm-62000-20171110362000-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0101010-acbs01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Summary/tse-acedjpsm-62000-20171110362000.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0201010-anbs01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/tse-acedjpfr-62000-2017-09-30-01-2017-11-10-def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/tse-acedjpfr-62000-2017-09-30-01-2017-11-10-cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/tse-acedjpfr-62000-2017-09-30-01-2017-11-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/tse-acedjpfr-62000-2017-09-30-01-2017-11-10-pre.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0203010-anss01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/0202010-anpl01-tse-acedjpfr-62000-2017-09-30-01-2017-11-10-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/manifest.xml" />
+    <link rel="related" type="text/plain" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017111000914/2017/11/10/081220171109414339/XBRLData/Attachment/index.txt" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 平成29年９月期　第３四半期決算短信〔日本基準〕（連結）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2017072800602" />
+    <id>TD2017072800602</id>
+    <updated>2017-07-28T16:30:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2017072800602" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/0101010-qcbs01-tse-qcedjpfr-62000-2017-06-30-01-2017-07-28-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/0102010-qcpl11-tse-qcedjpfr-62000-2017-06-30-01-2017-07-28-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/0102020-qcci11-tse-qcedjpfr-62000-2017-06-30-01-2017-07-28-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Summary/tse-qcedjpsm-62000-20170728362000-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Summary/tse-qcedjpsm-62000-20170728362000-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Summary/tse-qcedjpsm-62000-20170728362000.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/tse-qcedjpfr-62000-2017-06-30-01-2017-07-28-def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/tse-qcedjpfr-62000-2017-06-30-01-2017-07-28-pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/tse-qcedjpfr-62000-2017-06-30-01-2017-07-28.xsd" />
+    <link rel="related" type="text/plain" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/index.txt" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/manifest.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800602/2017/7/28/081220170728441498/XBRLData/Attachment/tse-qcedjpfr-62000-2017-06-30-01-2017-07-28-cal.xml" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 配当予想の修正（東証第一部市場変更記念配当）に関するお知らせ</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2017072800604" />
+    <id>TD2017072800604</id>
+    <updated>2017-07-28T16:30:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2017072800604" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800604/2017/7/28/091220170728441539/tse-rvdf-62000-20170728441539-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800604/2017/7/28/091220170728441539/tse-rvdf-62000-20170728441539-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017072800604/2017/7/28/091220170728441539/tse-rvdf-62000-20170728441539.xsd" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 平成29年９月期  第２四半期決算短信〔日本基準〕（連結）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2017051202129" />
+    <id>TD2017051202129</id>
+    <updated>2017-05-12T16:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2017051202129" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/0101010-qcbs01-tse-qcedjpfr-62000-2017-03-31-01-2017-05-12-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/0102010-qcpl11-tse-qcedjpfr-62000-2017-03-31-01-2017-05-12-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/0102020-qcci11-tse-qcedjpfr-62000-2017-03-31-01-2017-05-12-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Summary/tse-qcedjpsm-62000-20170512362000-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Summary/tse-qcedjpsm-62000-20170512362000-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Summary/tse-qcedjpsm-62000-20170512362000.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/0103010-qccf01-tse-qcedjpfr-62000-2017-03-31-01-2017-05-12-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/tse-qcedjpfr-62000-2017-03-31-01-2017-05-12-def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/tse-qcedjpfr-62000-2017-03-31-01-2017-05-12-pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/tse-qcedjpfr-62000-2017-03-31-01-2017-05-12.xsd" />
+    <link rel="related" type="text/plain" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/index.txt" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/manifest.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017051202129/2017/5/12/081220170511468492/XBRLData/Attachment/tse-qcedjpfr-62000-2017-03-31-01-2017-05-12-cal.xml" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 平成29年９月期　第１四半期決算短信〔日本基準〕（連結）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2017012700318" />
+    <id>TD2017012700318</id>
+    <updated>2017-01-27T17:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2017012700318" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/0101010-qcbs01-tse-qcedjpfr-62000-2016-12-31-01-2017-01-27-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/0102010-qcpl11-tse-qcedjpfr-62000-2016-12-31-01-2017-01-27-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/0102020-qcci11-tse-qcedjpfr-62000-2016-12-31-01-2017-01-27-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Summary/tse-qcedjpsm-62000-20170127362000-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Summary/tse-qcedjpsm-62000-20170127362000-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Summary/tse-qcedjpsm-62000-20170127362000.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/tse-qcedjpfr-62000-2016-12-31-01-2017-01-27-def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/tse-qcedjpfr-62000-2016-12-31-01-2017-01-27-pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/tse-qcedjpfr-62000-2016-12-31-01-2017-01-27.xsd" />
+    <link rel="related" type="text/plain" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/index.txt" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/manifest.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2017012700318/2017/1/27/081220170126482121/XBRLData/Attachment/tse-qcedjpfr-62000-2016-12-31-01-2017-01-27-cal.xml" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 平成28年９月期　決算短信〔日本基準〕（連結）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2016111100931" />
+    <id>TD2016111100931</id>
+    <updated>2016-11-11T16:30:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2016111100931" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0103010-acss01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0102020-acci01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0201010-anbs01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0104010-accf01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0102010-acpl01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Summary/tse-acedjpsm-62000-20161031427289-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Summary/tse-acedjpsm-62000-20161031427289-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0101010-acbs01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Summary/tse-acedjpsm-62000-20161031427289.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0202010-anpl01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/tse-acedjpfr-62000-2016-09-30-01-2016-11-11-lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/tse-acedjpfr-62000-2016-09-30-01-2016-11-11-lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/tse-acedjpfr-62000-2016-09-30-01-2016-11-11.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/tse-acedjpfr-62000-2016-09-30-01-2016-11-11-pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/tse-acedjpfr-62000-2016-09-30-01-2016-11-11-def.xml" />
+    <link rel="related" type="text/plain" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/index.txt" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/0203010-anss01-tse-acedjpfr-62000-2016-09-30-01-2016-11-11-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/tse-acedjpfr-62000-2016-09-30-01-2016-11-11-cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016111100931/2016/11/11/081220161031427289/XBRLData/Attachment/manifest.xml" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 業績予想及び配当予想の修正に関するお知らせ</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2016081900135" />
+    <id>TD2016081900135</id>
+    <updated>2016-08-19T16:10:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2016081900135" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016081900135/2016/8/19/091220160817477596/tse-rvfc-62000-20160817477596-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016081900135/2016/8/19/091220160817477596/tse-rvfc-62000-20160817477596-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016081900135/2016/8/19/091220160817477596/tse-rvfc-62000-20160817477596.xsd" />
+  </entry>
+  <entry>
+    <title>【62000】株式会社インソース 平成28年９月期　第３四半期決算短信〔日本基準〕（連結）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/tdnet/TD2016072901005" />
+    <id>TD2016072901005</id>
+    <updated>2016-07-29T17:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/tdnet/TD2016072901005" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/0101010-qcbs01-tse-qcedjpfr-62000-2016-06-30-01-2016-07-29-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/0102010-qcpl11-tse-qcedjpfr-62000-2016-06-30-01-2016-07-29-ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/0102020-qcci11-tse-qcedjpfr-62000-2016-06-30-01-2016-07-29-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Summary/tse-qcedjpsm-62000-20160722455582-def.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Summary/tse-qcedjpsm-62000-20160722455582-ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Summary/tse-qcedjpsm-62000-20160722455582.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/tse-qcedjpfr-62000-2016-06-30-01-2016-07-29-def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/tse-qcedjpfr-62000-2016-06-30-01-2016-07-29-pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/tse-qcedjpfr-62000-2016-06-30-01-2016-07-29.xsd" />
+    <link rel="related" type="text/plain" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/index.txt" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/manifest.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/tdnet/TD2016072901005/2016/7/29/081220160722455582/XBRLData/Attachment/tse-qcedjpfr-62000-2016-06-30-01-2016-07-29-cal.xml" />
+  </entry>
+</feed>

@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jpfr-oe="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/oe/2010-03-11" xmlns:jpfr-t-cte="http://info.edinet-fsa.go.jp/jp/fr/gaap/t/cte/2010-03-11" xmlns:jpfr-di="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/di/2010-03-11" xmlns:jpfr-asr-E01061-000="http://info.edinet-fsa.go.jp/jp/fr/gaap/E01061-000/asr/2010-03-31/01/2010-06-25">
+<link:schemaRef xlink:type="simple" xlink:href="jpfr-asr-E01061-000-2010-03-31-01-2010-06-25.xsd"/>
+<link:roleRef roleURI="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfIncome" xlink:type="simple" xlink:href="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/rt/2010-03-11/jpfr-rt-2010-03-11.xsd#RoleNonConsolidatedStatementsOfIncome"/>
+<link:roleRef roleURI="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfIncome" xlink:type="simple" xlink:href="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/rt/2010-03-11/jpfr-rt-2010-03-11.xsd#RoleConsolidatedStatementsOfIncome"/>
+<link:roleRef roleURI="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedBalanceSheets" xlink:type="simple" xlink:href="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/rt/2010-03-11/jpfr-rt-2010-03-11.xsd#RoleNonConsolidatedBalanceSheets"/>
+<link:roleRef roleURI="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfCashFlowsIndirect" xlink:type="simple" xlink:href="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/rt/2010-03-11/jpfr-rt-2010-03-11.xsd#RoleConsolidatedStatementsOfCashFlowsIndirect"/>
+<link:roleRef roleURI="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedBalanceSheets" xlink:type="simple" xlink:href="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/rt/2010-03-11/jpfr-rt-2010-03-11.xsd#RoleConsolidatedBalanceSheets"/>
+<link:roleRef roleURI="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="simple" xlink:href="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/rt/2010-03-11/jpfr-rt-2010-03-11.xsd#RoleNotesNumber"/>
+<link:roleRef roleURI="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumberPeriodEnd" xlink:type="simple" xlink:href="http://info.edinet-fsa.go.jp/jp/fr/gaap/o/rt/2010-03-11/jpfr-rt-2010-03-11.xsd#RoleNotesNumberPeriodEnd"/>
+<xbrli:context id="DocumentInfo">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2010-06-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="Prior2YearNonConsolidatedInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2008-03-31</xbrli:instant>
+</xbrli:period>
+<xbrli:scenario>
+<jpfr-oe:NonConsolidated/>
+</xbrli:scenario>
+</xbrli:context>
+<xbrli:context id="Prior2YearConsolidatedInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2008-03-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="Prior1YearNonConsolidatedDuration">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2008-04-01</xbrli:startDate>
+<xbrli:endDate>2009-03-31</xbrli:endDate>
+</xbrli:period>
+<xbrli:scenario>
+<jpfr-oe:NonConsolidated/>
+</xbrli:scenario>
+</xbrli:context>
+<xbrli:context id="Prior1YearNonConsolidatedInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2009-03-31</xbrli:instant>
+</xbrli:period>
+<xbrli:scenario>
+<jpfr-oe:NonConsolidated/>
+</xbrli:scenario>
+</xbrli:context>
+<xbrli:context id="Prior1YearConsolidatedDuration">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2008-04-01</xbrli:startDate>
+<xbrli:endDate>2009-03-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="Prior1YearConsolidatedInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2009-03-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="CurrentYearNonConsolidatedDuration">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2009-04-01</xbrli:startDate>
+<xbrli:endDate>2010-03-31</xbrli:endDate>
+</xbrli:period>
+<xbrli:scenario>
+<jpfr-oe:NonConsolidated/>
+</xbrli:scenario>
+</xbrli:context>
+<xbrli:context id="CurrentYearNonConsolidatedInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2010-03-31</xbrli:instant>
+</xbrli:period>
+<xbrli:scenario>
+<jpfr-oe:NonConsolidated/>
+</xbrli:scenario>
+</xbrli:context>
+<xbrli:context id="CurrentYearConsolidatedDuration">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2009-04-01</xbrli:startDate>
+<xbrli:endDate>2010-03-31</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="CurrentYearConsolidatedInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://info.edinet-fsa.go.jp">E01061-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2010-03-31</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:unit id="JPY">
+<xbrli:measure>iso4217:JPY</xbrli:measure>
+</xbrli:unit>
+<jpfr-t-cte:TreasuryStock unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni6">-580543000</jpfr-t-cte:TreasuryStock>
+<jpfr-t-cte:ShareholdersEquity unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni7">2082524000</jpfr-t-cte:ShareholdersEquity>
+<jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni8">-558000</jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities>
+<jpfr-t-cte:ValuationAndTranslationAdjustments unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni9">-558000</jpfr-t-cte:ValuationAndTranslationAdjustments>
+<jpfr-t-cte:SubscriptionRightsToShares unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni10">52672000</jpfr-t-cte:SubscriptionRightsToShares>
+<jpfr-t-cte:NetAssets unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni11">2134638000</jpfr-t-cte:NetAssets>
+<jpfr-t-cte:CapitalStock unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni68">415500000</jpfr-t-cte:CapitalStock>
+<jpfr-t-cte:LegalCapitalSurplus unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni69">240120000</jpfr-t-cte:LegalCapitalSurplus>
+<jpfr-t-cte:CapitalSurplus unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni70">240120000</jpfr-t-cte:CapitalSurplus>
+<jpfr-t-cte:LegalRetainedEarnings unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni71">93750000</jpfr-t-cte:LegalRetainedEarnings>
+<jpfr-t-cte:GeneralReserve unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni72">1400000000</jpfr-t-cte:GeneralReserve>
+<jpfr-t-cte:RetainedEarningsBroughtForward unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni73">513697000</jpfr-t-cte:RetainedEarningsBroughtForward>
+<jpfr-t-cte:RetainedEarnings unitRef="JPY" contextRef="Prior2YearNonConsolidatedInstant" decimals="-3" id="ni74">2007447000</jpfr-t-cte:RetainedEarnings>
+<jpfr-t-cte:NetAssets unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni80">2225723000</jpfr-t-cte:NetAssets>
+<jpfr-t-cte:CapitalStock unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni121">415500000</jpfr-t-cte:CapitalStock>
+<jpfr-t-cte:CapitalSurplus unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni122">240120000</jpfr-t-cte:CapitalSurplus>
+<jpfr-t-cte:RetainedEarnings unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni123">2124727000</jpfr-t-cte:RetainedEarnings>
+<jpfr-t-cte:TreasuryStock unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni124">-587713000</jpfr-t-cte:TreasuryStock>
+<jpfr-t-cte:ShareholdersEquity unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni125">2192633000</jpfr-t-cte:ShareholdersEquity>
+<jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni126">-558000</jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities>
+<jpfr-t-cte:ForeignCurrencyTranslationAdjustment unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni127">-11666000</jpfr-t-cte:ForeignCurrencyTranslationAdjustment>
+<jpfr-t-cte:ValuationAndTranslationAdjustments unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni128">-12225000</jpfr-t-cte:ValuationAndTranslationAdjustments>
+<jpfr-t-cte:SubscriptionRightsToShares unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni129">45314000</jpfr-t-cte:SubscriptionRightsToShares>
+<jpfr-t-cte:CashAndCashEquivalents unitRef="JPY" contextRef="Prior2YearConsolidatedInstant" decimals="-3" id="ni131">1245524000</jpfr-t-cte:CashAndCashEquivalents>
+<jpfr-t-cte:ImpairmentLossEL unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni134"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodLCS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni135"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni136"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodLRE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni137"/>
+<jpfr-t-cte:ProvisionOfGeneralReserveGeneralReserve unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni138">200000000</jpfr-t-cte:ProvisionOfGeneralReserveGeneralReserve>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodGeneralReserve unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni139">200000000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodGeneralReserve>
+<jpfr-t-cte:ProvisionOfGeneralReserveREBF unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni140">-200000000</jpfr-t-cte:ProvisionOfGeneralReserveREBF>
+<jpfr-t-cte:DividendsFromSurplusREBF unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni141">-67098000</jpfr-t-cte:DividendsFromSurplusREBF>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodREBF unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni142">-219580000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodREBF>
+<jpfr-t-cte:ProvisionOfGeneralReserveRE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni143"/>
+<jpfr-t-cte:DividendsFromSurplusRE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni144">-67098000</jpfr-t-cte:DividendsFromSurplusRE>
+<jpfr-t-cte:NetIncomeRENonconsolidated unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni145">47517000</jpfr-t-cte:NetIncomeRENonconsolidated>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni146">-19580000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE>
+<jpfr-t-cte:PurchaseOfTreasuryStockTS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni147">-263000</jpfr-t-cte:PurchaseOfTreasuryStockTS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni148">-263000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS>
+<jpfr-t-cte:DividendsFromSurplusSE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni149">-67098000</jpfr-t-cte:DividendsFromSurplusSE>
+<jpfr-t-cte:NetIncomeSE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni150">47517000</jpfr-t-cte:NetIncomeSE>
+<jpfr-t-cte:PurchaseOfTreasuryStockSE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni151">-263000</jpfr-t-cte:PurchaseOfTreasuryStockSE>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni152">-19844000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni153">-3781000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni154">-3781000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni155">-3781000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni156">-3781000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquitySRS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni157">3721000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquitySRS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSRS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni158">3721000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSRS>
+<jpfr-t-cte:DividendsFromSurplusNA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni159">-67098000</jpfr-t-cte:DividendsFromSurplusNA>
+<jpfr-t-cte:NetIncomeNA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni160">47517000</jpfr-t-cte:NetIncomeNA>
+<jpfr-t-cte:PurchaseOfTreasuryStockNA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni161">-263000</jpfr-t-cte:PurchaseOfTreasuryStockNA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni162">-60000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni163">-19904000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCAP unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni164"/>
+<jpfr-asr-E01061-000:ProductComplaintLossEL unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni165">5852000</jpfr-asr-E01061-000:ProductComplaintLossEL>
+<jpfr-t-cte:SalariesAllowancesAndBonusesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni166">117107000</jpfr-t-cte:SalariesAllowancesAndBonusesSGA>
+<jpfr-t-cte:NetSales unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni167">2776808000</jpfr-t-cte:NetSales>
+<jpfr-t-cte:BeginningFinishedGoodsCOS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni168">378660000</jpfr-t-cte:BeginningFinishedGoodsCOS>
+<jpfr-t-cte:CostOfProductsManufactured unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni169">2290321000</jpfr-t-cte:CostOfProductsManufactured>
+<jpfr-t-cte:TotalBeginningFinishedGoodsAndCostOfProductsManufacturedForThePeriod unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni170">2668981000</jpfr-t-cte:TotalBeginningFinishedGoodsAndCostOfProductsManufacturedForThePeriod>
+<jpfr-t-cte:EndingFinishedGoodsCOS unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni171">434362000</jpfr-t-cte:EndingFinishedGoodsCOS>
+<jpfr-t-cte:CostOfFinishedGoodsSold unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni172">2234619000</jpfr-t-cte:CostOfFinishedGoodsSold>
+<jpfr-t-cte:GrossProfit unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni173">542189000</jpfr-t-cte:GrossProfit>
+<jpfr-t-cte:OtherSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni174">59751000</jpfr-t-cte:OtherSGA>
+<jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightEL unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni175">1056000</jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightEL>
+<jpfr-t-cte:LitigationSettlementEL unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni176">12705000</jpfr-t-cte:LitigationSettlementEL>
+<jpfr-t-cte:ExtraordinaryLoss unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni177">21897000</jpfr-t-cte:ExtraordinaryLoss>
+<jpfr-t-cte:IncomeBeforeIncomeTaxes unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni178">82438000</jpfr-t-cte:IncomeBeforeIncomeTaxes>
+<jpfr-t-cte:IncomeTaxesCurrent unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni179">25163000</jpfr-t-cte:IncomeTaxesCurrent>
+<jpfr-t-cte:IncomeTaxesDeferred unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni180">9756000</jpfr-t-cte:IncomeTaxesDeferred>
+<jpfr-t-cte:IncomeTaxes unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni181">34920000</jpfr-t-cte:IncomeTaxes>
+<jpfr-t-cte:NetIncome unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni182">47517000</jpfr-t-cte:NetIncome>
+<jpfr-t-cte:HaulageExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni183">25635000</jpfr-t-cte:HaulageExpensesSGA>
+<jpfr-t-cte:AdvertisingExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni184">30377000</jpfr-t-cte:AdvertisingExpensesSGA>
+<jpfr-t-cte:DirectorsCompensationsSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni185">75081000</jpfr-t-cte:DirectorsCompensationsSGA>
+<jpfr-t-cte:RetirementBenefitExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni186">3983000</jpfr-t-cte:RetirementBenefitExpensesSGA>
+<jpfr-t-cte:LegalWelfareExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni187">19112000</jpfr-t-cte:LegalWelfareExpensesSGA>
+<jpfr-t-cte:WelfareExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni188">6540000</jpfr-t-cte:WelfareExpensesSGA>
+<jpfr-t-cte:CommunicationExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni189">2419000</jpfr-t-cte:CommunicationExpensesSGA>
+<jpfr-t-cte:TravelingAndTransportationExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni190">13774000</jpfr-t-cte:TravelingAndTransportationExpensesSGA>
+<jpfr-t-cte:SuppliesExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni191">1220000</jpfr-t-cte:SuppliesExpensesSGA>
+<jpfr-t-cte:TaxesAndDuesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni192">3989000</jpfr-t-cte:TaxesAndDuesSGA>
+<jpfr-t-cte:CommissionFeeSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni193">28331000</jpfr-t-cte:CommissionFeeSGA>
+<jpfr-t-cte:EntertainmentExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni194">5597000</jpfr-t-cte:EntertainmentExpensesSGA>
+<jpfr-t-cte:DepreciationSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni195">8638000</jpfr-t-cte:DepreciationSGA>
+<jpfr-t-cte:InsuranceExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni196">1534000</jpfr-t-cte:InsuranceExpensesSGA>
+<jpfr-t-cte:ResearchAndDevelopmentExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni197">68134000</jpfr-t-cte:ResearchAndDevelopmentExpensesSGA>
+<jpfr-t-cte:RentExpensesSGA unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni198">24848000</jpfr-t-cte:RentExpensesSGA>
+<jpfr-t-cte:SellingGeneralAndAdministrativeExpenses unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni199">496078000</jpfr-t-cte:SellingGeneralAndAdministrativeExpenses>
+<jpfr-t-cte:OperatingIncome unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni200">46111000</jpfr-t-cte:OperatingIncome>
+<jpfr-t-cte:OrdinaryIncome unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni201">104335000</jpfr-t-cte:OrdinaryIncome>
+<jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni202">2283000</jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL>
+<jpfr-t-cte:InterestIncomeNOI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni203">1961000</jpfr-t-cte:InterestIncomeNOI>
+<jpfr-t-cte:DividendsIncomeNOI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni204">31301000</jpfr-t-cte:DividendsIncomeNOI>
+<jpfr-t-cte:PurchaseDiscountsNOI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni205">24724000</jpfr-t-cte:PurchaseDiscountsNOI>
+<jpfr-t-cte:OtherNOI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni206">14418000</jpfr-t-cte:OtherNOI>
+<jpfr-t-cte:NonOperatingIncome unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni207">73194000</jpfr-t-cte:NonOperatingIncome>
+<jpfr-t-cte:InterestExpensesNOE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni208">12325000</jpfr-t-cte:InterestExpensesNOE>
+<jpfr-t-cte:OtherNOE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni209">2644000</jpfr-t-cte:OtherNOE>
+<jpfr-t-cte:NonOperatingExpenses unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni210">14969000</jpfr-t-cte:NonOperatingExpenses>
+<jpfr-t-cte:InsurancePremiumsRefundedCancellationNOI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" decimals="-3" id="ni211">787000</jpfr-t-cte:InsurancePremiumsRefundedCancellationNOI>
+<jpfr-t-cte:ReversalOfProvisionForBonusesEI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni212"/>
+<jpfr-t-cte:ReversalOfProvisionForDirectorsRetirementBenefitsEI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni213"/>
+<jpfr-t-cte:ExtraordinaryIncome unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni214"/>
+<jpfr-t-cte:SubsidyIncomeNOIBounty unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni215"/>
+<jpfr-t-cte:BusinessAdvisoryFeeNOI unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni216"/>
+<jpfr-t-cte:CompensationExpensesNOE unitRef="JPY" contextRef="Prior1YearNonConsolidatedDuration" xsi:nil="true" id="ni217"/>
+<jpfr-t-cte:IncomeTaxesReceivable unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni218">109164000</jpfr-t-cte:IncomeTaxesReceivable>
+<jpfr-t-cte:OtherCA unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni219">13688000</jpfr-t-cte:OtherCA>
+<jpfr-t-cte:CurrentAssets unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni220">2141561000</jpfr-t-cte:CurrentAssets>
+<jpfr-t-cte:Buildings unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni221">522248000</jpfr-t-cte:Buildings>
+<jpfr-t-cte:AccumulatedDepreciationBuildings unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni222">-357995000</jpfr-t-cte:AccumulatedDepreciationBuildings>
+<jpfr-t-cte:BuildingsNet unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni223">164253000</jpfr-t-cte:BuildingsNet>
+<jpfr-t-cte:Structures unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni224">236893000</jpfr-t-cte:Structures>
+<jpfr-t-cte:AccumulatedDepreciationStructures unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni225">-139782000</jpfr-t-cte:AccumulatedDepreciationStructures>
+<jpfr-t-cte:StructuresNet unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni226">97111000</jpfr-t-cte:StructuresNet>
+<jpfr-t-cte:MachineryAndEquipment unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni227">1305714000</jpfr-t-cte:MachineryAndEquipment>
+<jpfr-t-cte:AccumulatedDepreciationMachineryAndEquipment unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni228">-1113672000</jpfr-t-cte:AccumulatedDepreciationMachineryAndEquipment>
+<jpfr-t-cte:MachineryAndEquipmentNet unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni229">192042000</jpfr-t-cte:MachineryAndEquipmentNet>
+<jpfr-t-cte:Vehicles unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni230">12182000</jpfr-t-cte:Vehicles>
+<jpfr-t-cte:AccumulatedDepreciationVehicles unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni231">-11130000</jpfr-t-cte:AccumulatedDepreciationVehicles>
+<jpfr-t-cte:VehiclesNet unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni232">1051000</jpfr-t-cte:VehiclesNet>
+<jpfr-t-cte:ToolsFurnitureAndFixtures unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni233">98608000</jpfr-t-cte:ToolsFurnitureAndFixtures>
+<jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni234">-83093000</jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures>
+<jpfr-t-cte:CapitalStock unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni235">415500000</jpfr-t-cte:CapitalStock>
+<jpfr-t-cte:LegalCapitalSurplus unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni236">240120000</jpfr-t-cte:LegalCapitalSurplus>
+<jpfr-t-cte:CapitalSurplus unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni237">240120000</jpfr-t-cte:CapitalSurplus>
+<jpfr-t-cte:LegalRetainedEarnings unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni238">93750000</jpfr-t-cte:LegalRetainedEarnings>
+<jpfr-t-cte:GeneralReserve unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni239">1600000000</jpfr-t-cte:GeneralReserve>
+<jpfr-t-cte:RetainedEarningsBroughtForward unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni240">294117000</jpfr-t-cte:RetainedEarningsBroughtForward>
+<jpfr-t-cte:RetainedEarnings unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni241">1987867000</jpfr-t-cte:RetainedEarnings>
+<jpfr-t-cte:TreasuryStock unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni242">-580807000</jpfr-t-cte:TreasuryStock>
+<jpfr-t-cte:ShareholdersEquity unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni243">2062679000</jpfr-t-cte:ShareholdersEquity>
+<jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni244">-4339000</jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities>
+<jpfr-t-cte:ValuationAndTranslationAdjustments unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni245">-4339000</jpfr-t-cte:ValuationAndTranslationAdjustments>
+<jpfr-t-cte:SubscriptionRightsToShares unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni246">56394000</jpfr-t-cte:SubscriptionRightsToShares>
+<jpfr-t-cte:NetAssets unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni247">2114734000</jpfr-t-cte:NetAssets>
+<jpfr-t-cte:MerchandiseAndFinishedGoods unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni248">434362000</jpfr-t-cte:MerchandiseAndFinishedGoods>
+<jpfr-t-cte:RawMaterialsAndSupplies unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni249">52896000</jpfr-t-cte:RawMaterialsAndSupplies>
+<jpfr-t-cte:InsuranceFunds unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni250">92306000</jpfr-t-cte:InsuranceFunds>
+<jpfr-t-cte:ToolsFurnitureAndFixturesNet unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni251">15515000</jpfr-t-cte:ToolsFurnitureAndFixturesNet>
+<jpfr-t-cte:Land unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni252">229829000</jpfr-t-cte:Land>
+<jpfr-t-cte:PropertyPlantAndEquipment unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni253">699802000</jpfr-t-cte:PropertyPlantAndEquipment>
+<jpfr-t-cte:Software unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni254">22950000</jpfr-t-cte:Software>
+<jpfr-t-cte:TelephoneSubscriptionRight unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni255">290000</jpfr-t-cte:TelephoneSubscriptionRight>
+<jpfr-t-cte:SoftwareInProgress unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni256">1200000</jpfr-t-cte:SoftwareInProgress>
+<jpfr-t-cte:IntangibleAssets unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni257">24440000</jpfr-t-cte:IntangibleAssets>
+<jpfr-t-cte:CashAndDeposits unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni258">964945000</jpfr-t-cte:CashAndDeposits>
+<jpfr-t-cte:AccountsReceivableTrade unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni259">458175000</jpfr-t-cte:AccountsReceivableTrade>
+<jpfr-t-cte:WorkInProcess unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni260">14512000</jpfr-t-cte:WorkInProcess>
+<jpfr-t-cte:DeferredTaxAssetsCA unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni261">23014000</jpfr-t-cte:DeferredTaxAssetsCA>
+<jpfr-t-cte:AccountsReceivableOther unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni262">70803000</jpfr-t-cte:AccountsReceivableOther>
+<jpfr-t-cte:LeaseObligationsCL unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni263">4369000</jpfr-t-cte:LeaseObligationsCL>
+<jpfr-t-cte:LeaseObligationsNCL unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni264">11864000</jpfr-t-cte:LeaseObligationsNCL>
+<jpfr-t-cte:NoncurrentLiabilities unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni265">124689000</jpfr-t-cte:NoncurrentLiabilities>
+<jpfr-t-cte:Liabilities unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni266">1016705000</jpfr-t-cte:Liabilities>
+<jpfr-t-cte:LiabilitiesAndNetAssets unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni267">3131439000</jpfr-t-cte:LiabilitiesAndNetAssets>
+<jpfr-t-cte:InvestmentSecurities unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni268">75788000</jpfr-t-cte:InvestmentSecurities>
+<jpfr-t-cte:StocksOfSubsidiariesAndAffiliates unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni269">20000000</jpfr-t-cte:StocksOfSubsidiariesAndAffiliates>
+<jpfr-t-cte:LongTermLoansReceivableFromSubsidiariesAndAffiliates unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni270">10000000</jpfr-t-cte:LongTermLoansReceivableFromSubsidiariesAndAffiliates>
+<jpfr-t-cte:LongTermPrepaidExpenses unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni271">1056000</jpfr-t-cte:LongTermPrepaidExpenses>
+<jpfr-t-cte:LeaseAndGuaranteeDeposits unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni272">18766000</jpfr-t-cte:LeaseAndGuaranteeDeposits>
+<jpfr-t-cte:DeferredTaxAssetsIOA unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni273">41836000</jpfr-t-cte:DeferredTaxAssetsIOA>
+<jpfr-t-cte:OtherIOA unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni274">5880000</jpfr-t-cte:OtherIOA>
+<jpfr-t-cte:InvestmentsAndOtherAssets unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni275">265633000</jpfr-t-cte:InvestmentsAndOtherAssets>
+<jpfr-t-cte:NoncurrentAssets unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni276">989877000</jpfr-t-cte:NoncurrentAssets>
+<jpfr-t-cte:Assets unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni277">3131439000</jpfr-t-cte:Assets>
+<jpfr-t-cte:AccountsPayableTrade unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni278">116721000</jpfr-t-cte:AccountsPayableTrade>
+<jpfr-t-cte:CurrentPortionOfLongTermLoansPayable unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni279">650760000</jpfr-t-cte:CurrentPortionOfLongTermLoansPayable>
+<jpfr-t-cte:AccountsPayableOther unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni280">55618000</jpfr-t-cte:AccountsPayableOther>
+<jpfr-t-cte:AccruedExpenses unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni281">18832000</jpfr-t-cte:AccruedExpenses>
+<jpfr-t-cte:IncomeTaxesPayable unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni282">966000</jpfr-t-cte:IncomeTaxesPayable>
+<jpfr-t-cte:DepositsReceived unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni283">9340000</jpfr-t-cte:DepositsReceived>
+<jpfr-t-cte:ProvisionForBonuses unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni284">35200000</jpfr-t-cte:ProvisionForBonuses>
+<jpfr-t-cte:OtherCL unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni285">207000</jpfr-t-cte:OtherCL>
+<jpfr-t-cte:CurrentLiabilities unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni286">892015000</jpfr-t-cte:CurrentLiabilities>
+<jpfr-t-cte:LongTermLoansPayable unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni287">17350000</jpfr-t-cte:LongTermLoansPayable>
+<jpfr-t-cte:ProvisionForRetirementBenefits unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni288">69245000</jpfr-t-cte:ProvisionForRetirementBenefits>
+<jpfr-t-cte:ProvisionForDirectorsRetirementBenefits unitRef="JPY" contextRef="Prior1YearNonConsolidatedInstant" decimals="-3" id="ni289">26230000</jpfr-t-cte:ProvisionForDirectorsRetirementBenefits>
+<jpfr-t-cte:ImpairmentLossOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni290"/>
+<jpfr-t-cte:ReversalOfProvisionForBonusesEI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni291"/>
+<jpfr-t-cte:ReversalOfProvisionForDirectorsRetirementBenefitsEI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni292"/>
+<jpfr-t-cte:ExtraordinaryIncome unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni293"/>
+<jpfr-t-cte:ImpairmentLossEL unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni294"/>
+<jpfr-t-cte:IncomeTaxesRefundOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni295"/>
+<jpfr-t-cte:ProceedsFromLongTermLoansPayableFinCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni296"/>
+<jpfr-t-cte:DecreaseIncreaseInNotesAndAccountsReceivableTradeOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni297">346030000</jpfr-t-cte:DecreaseIncreaseInNotesAndAccountsReceivableTradeOpeCF>
+<jpfr-t-cte:DecreaseIncreaseInInventoriesOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni298">-33823000</jpfr-t-cte:DecreaseIncreaseInInventoriesOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInNotesAndAccountsPayableTradeOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni299">-242698000</jpfr-t-cte:IncreaseDecreaseInNotesAndAccountsPayableTradeOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInAccountsPayableOtherOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni300">-19873000</jpfr-t-cte:IncreaseDecreaseInAccountsPayableOtherOpeCF>
+<jpfr-t-cte:OtherNetOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni301">20637000</jpfr-t-cte:OtherNetOpeCF>
+<jpfr-t-cte:SubtotalOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni302">245890000</jpfr-t-cte:SubtotalOpeCF>
+<jpfr-t-cte:InterestAndDividendsIncomeReceivedOpeCFInvCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni303">34546000</jpfr-t-cte:InterestAndDividendsIncomeReceivedOpeCFInvCF>
+<jpfr-t-cte:InterestExpensesPaidOpeCFFinCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni304">-12325000</jpfr-t-cte:InterestExpensesPaidOpeCFFinCF>
+<jpfr-t-cte:IncomeTaxesPaidOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni305">-282224000</jpfr-t-cte:IncomeTaxesPaidOpeCF>
+<jpfr-t-cte:NetCashProvidedByUsedInOperatingActivities unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni306">-14111000</jpfr-t-cte:NetCashProvidedByUsedInOperatingActivities>
+<jpfr-t-cte:PurchaseOfPropertyPlantAndEquipmentInvCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni307">-56179000</jpfr-t-cte:PurchaseOfPropertyPlantAndEquipmentInvCF>
+<jpfr-t-cte:PurchaseOfIntangibleAssetsInvCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni308">-16195000</jpfr-t-cte:PurchaseOfIntangibleAssetsInvCF>
+<jpfr-t-cte:PurchaseOfInvestmentSecuritiesInvCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni309">-4796000</jpfr-t-cte:PurchaseOfInvestmentSecuritiesInvCF>
+<jpfr-t-cte:CollectionOfLoansReceivableInvCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni310">10000000</jpfr-t-cte:CollectionOfLoansReceivableInvCF>
+<jpfr-t-cte:OtherNetInvCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni311">1755000</jpfr-t-cte:OtherNetInvCF>
+<jpfr-t-cte:NetCashProvidedByUsedInInvestmentActivities unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni312">-65416000</jpfr-t-cte:NetCashProvidedByUsedInInvestmentActivities>
+<jpfr-t-cte:RepaymentOfLongTermLoansPayableFinCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni313">-50760000</jpfr-t-cte:RepaymentOfLongTermLoansPayableFinCF>
+<jpfr-t-cte:PurchaseOfTreasuryStockFinCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni314">-263000</jpfr-t-cte:PurchaseOfTreasuryStockFinCF>
+<jpfr-t-cte:CashDividendsPaidFinCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni315">-67098000</jpfr-t-cte:CashDividendsPaidFinCF>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni316">-263000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS>
+<jpfr-asr-E01061-000:ProductComplaintLossEL unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni317">5852000</jpfr-asr-E01061-000:ProductComplaintLossEL>
+<jpfr-t-cte:InsurancePremiumsRefundedCancellationNOI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni318">787000</jpfr-t-cte:InsurancePremiumsRefundedCancellationNOI>
+<jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightEL unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni319">1056000</jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightEL>
+<jpfr-t-cte:LitigationSettlementEL unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni320">12705000</jpfr-t-cte:LitigationSettlementEL>
+<jpfr-t-cte:ExtraordinaryLoss unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni321">21897000</jpfr-t-cte:ExtraordinaryLoss>
+<jpfr-t-cte:DepreciationAndAmortizationOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni322">106754000</jpfr-t-cte:DepreciationAndAmortizationOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForBonusesOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni323">-1600000</jpfr-t-cte:IncreaseDecreaseInProvisionForBonusesOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForDirectorsBonusesOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni324">-14000000</jpfr-t-cte:IncreaseDecreaseInProvisionForDirectorsBonusesOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForRetirementBenefitsOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni325">21374000</jpfr-t-cte:IncreaseDecreaseInProvisionForRetirementBenefitsOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForDirectorsRetirementBenefitsOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni326">1729000</jpfr-t-cte:IncreaseDecreaseInProvisionForDirectorsRetirementBenefitsOpeCF>
+<jpfr-t-cte:ShareBasedCompensationExpensesOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni327">3721000</jpfr-t-cte:ShareBasedCompensationExpensesOpeCF>
+<jpfr-t-cte:RepaymentsOfLeaseObligationsFinCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni328">-4359000</jpfr-t-cte:RepaymentsOfLeaseObligationsFinCF>
+<jpfr-t-cte:NetCashProvidedByUsedInFinancingActivities unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni329">-122481000</jpfr-t-cte:NetCashProvidedByUsedInFinancingActivities>
+<jpfr-t-cte:NetIncreaseDecreaseInCashAndCashEquivalents unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni330">-202009000</jpfr-t-cte:NetIncreaseDecreaseInCashAndCashEquivalents>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCAP unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni331"/>
+<jpfr-t-cte:NetSales unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni332">2778192000</jpfr-t-cte:NetSales>
+<jpfr-t-cte:CostOfSales unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni333">2234619000</jpfr-t-cte:CostOfSales>
+<jpfr-t-cte:GrossProfit unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni334">543573000</jpfr-t-cte:GrossProfit>
+<jpfr-t-cte:SellingGeneralAndAdministrativeExpenses unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni335">497115000</jpfr-t-cte:SellingGeneralAndAdministrativeExpenses>
+<jpfr-t-cte:OperatingIncome unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni336">46457000</jpfr-t-cte:OperatingIncome>
+<jpfr-t-cte:InterestIncomeNOI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni337">2074000</jpfr-t-cte:InterestIncomeNOI>
+<jpfr-t-cte:DividendsIncomeNOI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni338">1301000</jpfr-t-cte:DividendsIncomeNOI>
+<jpfr-t-cte:EquityInEarningsOfAffiliatesNOI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni339">51026000</jpfr-t-cte:EquityInEarningsOfAffiliatesNOI>
+<jpfr-t-cte:PurchaseDiscountsNOI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni340">24724000</jpfr-t-cte:PurchaseDiscountsNOI>
+<jpfr-t-cte:OtherNOI unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni341">11663000</jpfr-t-cte:OtherNOI>
+<jpfr-t-cte:NonOperatingIncome unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni342">91579000</jpfr-t-cte:NonOperatingIncome>
+<jpfr-t-cte:InterestExpensesNOE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni343">12325000</jpfr-t-cte:InterestExpensesNOE>
+<jpfr-t-cte:OtherNOE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni344">7548000</jpfr-t-cte:OtherNOE>
+<jpfr-t-cte:NonOperatingExpenses unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni345">19873000</jpfr-t-cte:NonOperatingExpenses>
+<jpfr-t-cte:OrdinaryIncome unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni346">118163000</jpfr-t-cte:OrdinaryIncome>
+<jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni347">2283000</jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL>
+<jpfr-t-cte:IncomeBeforeIncomeTaxes unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni348">96265000</jpfr-t-cte:IncomeBeforeIncomeTaxes>
+<jpfr-t-cte:IncomeTaxesCurrent unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni349">46496000</jpfr-t-cte:IncomeTaxesCurrent>
+<jpfr-t-cte:IncomeTaxesDeferred unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni350">14186000</jpfr-t-cte:IncomeTaxesDeferred>
+<jpfr-t-cte:IncomeTaxes unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni351">60682000</jpfr-t-cte:IncomeTaxes>
+<jpfr-t-cte:NetIncome unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni352">35582000</jpfr-t-cte:NetIncome>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCS unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni353"/>
+<jpfr-t-cte:DividendsFromSurplusRE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni354">-67098000</jpfr-t-cte:DividendsFromSurplusRE>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni355">-31515000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE>
+<jpfr-t-cte:PurchaseOfTreasuryStockTS unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni356">-263000</jpfr-t-cte:PurchaseOfTreasuryStockTS>
+<jpfr-t-cte:DividendsFromSurplusSE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni357">-67098000</jpfr-t-cte:DividendsFromSurplusSE>
+<jpfr-t-cte:NetIncomeSE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni358">35582000</jpfr-t-cte:NetIncomeSE>
+<jpfr-t-cte:PurchaseOfTreasuryStockSE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni359">-263000</jpfr-t-cte:PurchaseOfTreasuryStockSE>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni360">-31779000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni361">-3781000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni362">-3781000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityFTA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni363">4120000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityFTA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodFTA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni364">4120000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodFTA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni365">339000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni366">339000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquitySRS unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni367">3721000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquitySRS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSRS unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni368">3721000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSRS>
+<jpfr-t-cte:DividendsFromSurplusNA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni369">-67098000</jpfr-t-cte:DividendsFromSurplusNA>
+<jpfr-t-cte:NetIncomeNA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni370">35582000</jpfr-t-cte:NetIncomeNA>
+<jpfr-t-cte:PurchaseOfTreasuryStockNA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni371">-263000</jpfr-t-cte:PurchaseOfTreasuryStockNA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni372">4060000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni373">-27718000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA>
+<jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni374">1056000</jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightOpeCF>
+<jpfr-t-cte:InterestAndDividendsIncomeOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni375">-3263000</jpfr-t-cte:InterestAndDividendsIncomeOpeCF>
+<jpfr-t-cte:EquityInEarningsLossesOfAffiliatesOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni376">-51026000</jpfr-t-cte:EquityInEarningsLossesOfAffiliatesOpeCF>
+<jpfr-t-cte:LossOnRetirementOfPropertyPlantAndEquipmentOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni377">2283000</jpfr-t-cte:LossOnRetirementOfPropertyPlantAndEquipmentOpeCF>
+<jpfr-t-cte:InterestExpensesOpeCF unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" decimals="-3" id="ni378">12325000</jpfr-t-cte:InterestExpensesOpeCF>
+<jpfr-t-cte:SubsidyIncomeNOIBounty unitRef="JPY" contextRef="Prior1YearConsolidatedDuration" xsi:nil="true" id="ni379"/>
+<jpfr-t-cte:CashAndDeposits unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni380">1043514000</jpfr-t-cte:CashAndDeposits>
+<jpfr-t-cte:NotesAndAccountsReceivableTrade unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni381">458175000</jpfr-t-cte:NotesAndAccountsReceivableTrade>
+<jpfr-t-cte:InsuranceFunds unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni382">92306000</jpfr-t-cte:InsuranceFunds>
+<jpfr-t-cte:OtherCA unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni383">193655000</jpfr-t-cte:OtherCA>
+<jpfr-t-cte:CurrentAssets unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni384">2224463000</jpfr-t-cte:CurrentAssets>
+<jpfr-t-cte:BuildingsAndStructures unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni385">759142000</jpfr-t-cte:BuildingsAndStructures>
+<jpfr-t-cte:AccumulatedDepreciationBuildingsAndStructures unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni386">-497778000</jpfr-t-cte:AccumulatedDepreciationBuildingsAndStructures>
+<jpfr-t-cte:BuildingsAndStructuresNet unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni387">261364000</jpfr-t-cte:BuildingsAndStructuresNet>
+<jpfr-t-cte:MachineryEquipmentAndVehicles unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni388">1317896000</jpfr-t-cte:MachineryEquipmentAndVehicles>
+<jpfr-t-cte:AccumulatedDepreciationMachineryEquipmentAndVehicles unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni389">-1124803000</jpfr-t-cte:AccumulatedDepreciationMachineryEquipmentAndVehicles>
+<jpfr-t-cte:MachineryEquipmentAndVehiclesNet unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni390">193093000</jpfr-t-cte:MachineryEquipmentAndVehiclesNet>
+<jpfr-t-cte:ToolsFurnitureAndFixtures unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni391">98608000</jpfr-t-cte:ToolsFurnitureAndFixtures>
+<jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni392">-83093000</jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures>
+<jpfr-t-cte:ToolsFurnitureAndFixturesNet unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni393">15515000</jpfr-t-cte:ToolsFurnitureAndFixturesNet>
+<jpfr-t-cte:Land unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni394">229829000</jpfr-t-cte:Land>
+<jpfr-t-cte:PropertyPlantAndEquipment unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni395">699802000</jpfr-t-cte:PropertyPlantAndEquipment>
+<jpfr-t-cte:IntangibleAssets unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni396">24440000</jpfr-t-cte:IntangibleAssets>
+<jpfr-t-cte:InvestmentSecurities unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni397">75788000</jpfr-t-cte:InvestmentSecurities>
+<jpfr-t-cte:InvestmentsInOtherSecuritiesOfSubsidiariesAndAffiliates unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni398">53666000</jpfr-t-cte:InvestmentsInOtherSecuritiesOfSubsidiariesAndAffiliates>
+<jpfr-t-cte:LongTermLoansReceivableFromSubsidiariesAndAffiliates unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni399">10000000</jpfr-t-cte:LongTermLoansReceivableFromSubsidiariesAndAffiliates>
+<jpfr-t-cte:DeferredTaxAssetsIOA unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni400">41836000</jpfr-t-cte:DeferredTaxAssetsIOA>
+<jpfr-t-cte:OtherIOA unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni401">25702000</jpfr-t-cte:OtherIOA>
+<jpfr-t-cte:InvestmentsAndOtherAssets unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni402">299300000</jpfr-t-cte:InvestmentsAndOtherAssets>
+<jpfr-t-cte:NoncurrentAssets unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni403">1023543000</jpfr-t-cte:NoncurrentAssets>
+<jpfr-t-cte:Assets unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni404">3248006000</jpfr-t-cte:Assets>
+<jpfr-t-cte:AccountsPayableTrade unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni405">116721000</jpfr-t-cte:AccountsPayableTrade>
+<jpfr-t-cte:CurrentPortionOfLongTermLoansPayable unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni406">650760000</jpfr-t-cte:CurrentPortionOfLongTermLoansPayable>
+<jpfr-t-cte:IncomeTaxesPayable unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni407">8236000</jpfr-t-cte:IncomeTaxesPayable>
+<jpfr-t-cte:ProvisionForBonuses unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni408">35200000</jpfr-t-cte:ProvisionForBonuses>
+<jpfr-t-cte:OtherCL unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni409">83999000</jpfr-t-cte:OtherCL>
+<jpfr-t-cte:CurrentLiabilities unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni410">899286000</jpfr-t-cte:CurrentLiabilities>
+<jpfr-t-cte:LongTermLoansPayable unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni411">17350000</jpfr-t-cte:LongTermLoansPayable>
+<jpfr-t-cte:DeferredTaxLiabilitiesNCL unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni412">26026000</jpfr-t-cte:DeferredTaxLiabilitiesNCL>
+<jpfr-t-cte:ProvisionForRetirementBenefits unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni413">69245000</jpfr-t-cte:ProvisionForRetirementBenefits>
+<jpfr-t-cte:ProvisionForDirectorsRetirementBenefits unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni414">26230000</jpfr-t-cte:ProvisionForDirectorsRetirementBenefits>
+<jpfr-t-cte:NoncurrentLiabilities unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni415">150715000</jpfr-t-cte:NoncurrentLiabilities>
+<jpfr-t-cte:Liabilities unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni416">1050002000</jpfr-t-cte:Liabilities>
+<jpfr-t-cte:CapitalStock unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni417">415500000</jpfr-t-cte:CapitalStock>
+<jpfr-t-cte:CapitalSurplus unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni418">240120000</jpfr-t-cte:CapitalSurplus>
+<jpfr-t-cte:RetainedEarnings unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni419">2093211000</jpfr-t-cte:RetainedEarnings>
+<jpfr-t-cte:TreasuryStock unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni420">-587977000</jpfr-t-cte:TreasuryStock>
+<jpfr-t-cte:ShareholdersEquity unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni421">2160854000</jpfr-t-cte:ShareholdersEquity>
+<jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni422">-4339000</jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities>
+<jpfr-t-cte:ForeignCurrencyTranslationAdjustment unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni423">-7545000</jpfr-t-cte:ForeignCurrencyTranslationAdjustment>
+<jpfr-t-cte:ValuationAndTranslationAdjustments unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni424">-11885000</jpfr-t-cte:ValuationAndTranslationAdjustments>
+<jpfr-t-cte:SubscriptionRightsToShares unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni425">49035000</jpfr-t-cte:SubscriptionRightsToShares>
+<jpfr-t-cte:NetAssets unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni426">2198004000</jpfr-t-cte:NetAssets>
+<jpfr-t-cte:LiabilitiesAndNetAssets unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni427">3248006000</jpfr-t-cte:LiabilitiesAndNetAssets>
+<jpfr-t-cte:LeaseObligationsCL unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni428">4369000</jpfr-t-cte:LeaseObligationsCL>
+<jpfr-t-cte:LeaseObligationsNCL unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni429">11864000</jpfr-t-cte:LeaseObligationsNCL>
+<jpfr-t-cte:MerchandiseAndFinishedGoods unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni430">434362000</jpfr-t-cte:MerchandiseAndFinishedGoods>
+<jpfr-t-cte:WorkInProcess unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni431">14512000</jpfr-t-cte:WorkInProcess>
+<jpfr-t-cte:RawMaterialsAndSupplies unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni432">52896000</jpfr-t-cte:RawMaterialsAndSupplies>
+<jpfr-t-cte:DeferredTaxAssetsCA unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni433">27345000</jpfr-t-cte:DeferredTaxAssetsCA>
+<jpfr-t-cte:CashAndCashEquivalents unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" decimals="-3" id="ni434">1043514000</jpfr-t-cte:CashAndCashEquivalents>
+<jpfr-t-cte:DeferredTaxLiabilitiesCL unitRef="JPY" contextRef="Prior1YearConsolidatedInstant" xsi:nil="true" id="ni435"/>
+<jpfr-t-cte:ReversalOfProvisionForBonusesEI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni436">14000000</jpfr-t-cte:ReversalOfProvisionForBonusesEI>
+<jpfr-t-cte:ReversalOfProvisionForDirectorsRetirementBenefitsEI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni437">660000</jpfr-t-cte:ReversalOfProvisionForDirectorsRetirementBenefitsEI>
+<jpfr-t-cte:ExtraordinaryIncome unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni438">14660000</jpfr-t-cte:ExtraordinaryIncome>
+<jpfr-asr-E01061-000:ProductComplaintLossEL unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni439"/>
+<jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni440">3478000</jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL>
+<jpfr-t-cte:ImpairmentLossEL unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni441">16346000</jpfr-t-cte:ImpairmentLossEL>
+<jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightEL unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni442"/>
+<jpfr-t-cte:ExtraordinaryLoss unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni443">19825000</jpfr-t-cte:ExtraordinaryLoss>
+<jpfr-t-cte:IncomeBeforeIncomeTaxes unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni444">-80077000</jpfr-t-cte:IncomeBeforeIncomeTaxes>
+<jpfr-t-cte:IncomeTaxesCurrent unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni445">460000</jpfr-t-cte:IncomeTaxesCurrent>
+<jpfr-t-cte:IncomeTaxesDeferred unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni446">-15065000</jpfr-t-cte:IncomeTaxesDeferred>
+<jpfr-t-cte:IncomeTaxes unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni447">-14605000</jpfr-t-cte:IncomeTaxes>
+<jpfr-t-cte:NetIncome unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni448">-65472000</jpfr-t-cte:NetIncome>
+<jpfr-t-cte:InsurancePremiumsRefundedCancellationNOI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni449"/>
+<jpfr-t-cte:OtherNOI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni450">10297000</jpfr-t-cte:OtherNOI>
+<jpfr-t-cte:NonOperatingIncome unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni451">35792000</jpfr-t-cte:NonOperatingIncome>
+<jpfr-t-cte:InterestExpensesNOE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni452">12925000</jpfr-t-cte:InterestExpensesNOE>
+<jpfr-t-cte:OtherNOE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni453">2090000</jpfr-t-cte:OtherNOE>
+<jpfr-t-cte:NonOperatingExpenses unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni454">18822000</jpfr-t-cte:NonOperatingExpenses>
+<jpfr-t-cte:OrdinaryIncome unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni455">-74912000</jpfr-t-cte:OrdinaryIncome>
+<jpfr-t-cte:BeginningFinishedGoodsCOS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni456">434362000</jpfr-t-cte:BeginningFinishedGoodsCOS>
+<jpfr-t-cte:CostOfProductsManufactured unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni457">1806639000</jpfr-t-cte:CostOfProductsManufactured>
+<jpfr-t-cte:TotalBeginningFinishedGoodsAndCostOfProductsManufacturedForThePeriod unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni458">2241002000</jpfr-t-cte:TotalBeginningFinishedGoodsAndCostOfProductsManufacturedForThePeriod>
+<jpfr-t-cte:EndingFinishedGoodsCOS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni459">121485000</jpfr-t-cte:EndingFinishedGoodsCOS>
+<jpfr-t-cte:NetSales unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni460">2396653000</jpfr-t-cte:NetSales>
+<jpfr-t-cte:CostOfFinishedGoodsSold unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni461">2119516000</jpfr-t-cte:CostOfFinishedGoodsSold>
+<jpfr-t-cte:GrossProfit unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni462">277137000</jpfr-t-cte:GrossProfit>
+<jpfr-t-cte:HaulageExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni463">21844000</jpfr-t-cte:HaulageExpensesSGA>
+<jpfr-t-cte:AdvertisingExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni464">1677000</jpfr-t-cte:AdvertisingExpensesSGA>
+<jpfr-t-cte:DirectorsCompensationsSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni465">61644000</jpfr-t-cte:DirectorsCompensationsSGA>
+<jpfr-t-cte:SalariesAllowancesAndBonusesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni466">91830000</jpfr-t-cte:SalariesAllowancesAndBonusesSGA>
+<jpfr-t-cte:RetirementBenefitExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni467">2620000</jpfr-t-cte:RetirementBenefitExpensesSGA>
+<jpfr-t-cte:LegalWelfareExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni468">16294000</jpfr-t-cte:LegalWelfareExpensesSGA>
+<jpfr-t-cte:WelfareExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni469">3731000</jpfr-t-cte:WelfareExpensesSGA>
+<jpfr-t-cte:CommunicationExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni470">1907000</jpfr-t-cte:CommunicationExpensesSGA>
+<jpfr-t-cte:TravelingAndTransportationExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni471">2159000</jpfr-t-cte:TravelingAndTransportationExpensesSGA>
+<jpfr-t-cte:SuppliesExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni472">1163000</jpfr-t-cte:SuppliesExpensesSGA>
+<jpfr-t-cte:TaxesAndDuesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni473">3142000</jpfr-t-cte:TaxesAndDuesSGA>
+<jpfr-t-cte:CommissionFeeSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni474">22870000</jpfr-t-cte:CommissionFeeSGA>
+<jpfr-t-cte:EntertainmentExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni475">3537000</jpfr-t-cte:EntertainmentExpensesSGA>
+<jpfr-t-cte:DepreciationSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni476">9435000</jpfr-t-cte:DepreciationSGA>
+<jpfr-t-cte:InsuranceExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni477">1276000</jpfr-t-cte:InsuranceExpensesSGA>
+<jpfr-t-cte:ResearchAndDevelopmentExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni478">65809000</jpfr-t-cte:ResearchAndDevelopmentExpensesSGA>
+<jpfr-t-cte:RentExpensesSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni479">22507000</jpfr-t-cte:RentExpensesSGA>
+<jpfr-t-cte:OtherSGA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni480">35567000</jpfr-t-cte:OtherSGA>
+<jpfr-t-cte:SellingGeneralAndAdministrativeExpenses unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni481">369020000</jpfr-t-cte:SellingGeneralAndAdministrativeExpenses>
+<jpfr-t-cte:OperatingIncome unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni482">-91883000</jpfr-t-cte:OperatingIncome>
+<jpfr-t-cte:InterestIncomeNOI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni483">1041000</jpfr-t-cte:InterestIncomeNOI>
+<jpfr-t-cte:DividendsIncomeNOI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni484">1276000</jpfr-t-cte:DividendsIncomeNOI>
+<jpfr-t-cte:PurchaseDiscountsNOI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni485">14497000</jpfr-t-cte:PurchaseDiscountsNOI>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCAP unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni486"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodLCS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni487"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni488"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodLRE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni489"/>
+<jpfr-t-cte:ProvisionOfGeneralReserveGeneralReserve unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni490"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodGeneralReserve unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni491"/>
+<jpfr-t-cte:ProvisionOfGeneralReserveREBF unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni492"/>
+<jpfr-t-cte:DividendsFromSurplusREBF unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni493">-27954000</jpfr-t-cte:DividendsFromSurplusREBF>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodREBF unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni494">-93426000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodREBF>
+<jpfr-t-cte:ProvisionOfGeneralReserveRE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni495"/>
+<jpfr-t-cte:DividendsFromSurplusRE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni496">-27954000</jpfr-t-cte:DividendsFromSurplusRE>
+<jpfr-t-cte:NetIncomeRENonconsolidated unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni497">-65472000</jpfr-t-cte:NetIncomeRENonconsolidated>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni498">-93426000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE>
+<jpfr-t-cte:PurchaseOfTreasuryStockTS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni499">-97000</jpfr-t-cte:PurchaseOfTreasuryStockTS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni500">-97000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS>
+<jpfr-t-cte:DividendsFromSurplusSE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni501">-27954000</jpfr-t-cte:DividendsFromSurplusSE>
+<jpfr-t-cte:NetIncomeSE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni502">-65472000</jpfr-t-cte:NetIncomeSE>
+<jpfr-t-cte:PurchaseOfTreasuryStockSE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni503">-97000</jpfr-t-cte:PurchaseOfTreasuryStockSE>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni504">-93524000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni505">-1538000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni506">-1538000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni507">-1538000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni508">-1538000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquitySRS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni509"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSRS unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni510"/>
+<jpfr-t-cte:DividendsFromSurplusNA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni511">-27954000</jpfr-t-cte:DividendsFromSurplusNA>
+<jpfr-t-cte:NetIncomeNA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni512">-65472000</jpfr-t-cte:NetIncomeNA>
+<jpfr-t-cte:PurchaseOfTreasuryStockNA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni513">-97000</jpfr-t-cte:PurchaseOfTreasuryStockNA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni514">-1538000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni515">-95063000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA>
+<jpfr-t-cte:LitigationSettlementEL unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" xsi:nil="true" id="ni516"/>
+<jpfr-t-cte:SubsidyIncomeNOIBounty unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni517">3880000</jpfr-t-cte:SubsidyIncomeNOIBounty>
+<jpfr-t-cte:BusinessAdvisoryFeeNOI unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni518">4800000</jpfr-t-cte:BusinessAdvisoryFeeNOI>
+<jpfr-t-cte:CompensationExpensesNOE unitRef="JPY" contextRef="CurrentYearNonConsolidatedDuration" decimals="-3" id="ni519">3806000</jpfr-t-cte:CompensationExpensesNOE>
+<jpfr-t-cte:IntangibleAssets unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni520">20072000</jpfr-t-cte:IntangibleAssets>
+<jpfr-t-cte:InvestmentSecurities unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni521">77989000</jpfr-t-cte:InvestmentSecurities>
+<jpfr-t-cte:CashAndDeposits unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni522">1433034000</jpfr-t-cte:CashAndDeposits>
+<jpfr-t-cte:AccountsReceivableTrade unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni523">678238000</jpfr-t-cte:AccountsReceivableTrade>
+<jpfr-t-cte:MerchandiseAndFinishedGoods unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni524">121485000</jpfr-t-cte:MerchandiseAndFinishedGoods>
+<jpfr-t-cte:WorkInProcess unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni525">11041000</jpfr-t-cte:WorkInProcess>
+<jpfr-t-cte:RawMaterialsAndSupplies unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni526">55665000</jpfr-t-cte:RawMaterialsAndSupplies>
+<jpfr-t-cte:DeferredTaxAssetsCA unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni527">43297000</jpfr-t-cte:DeferredTaxAssetsCA>
+<jpfr-t-cte:IncomeTaxesReceivable unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni528">8504000</jpfr-t-cte:IncomeTaxesReceivable>
+<jpfr-t-cte:AccountsReceivableOther unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni529">58703000</jpfr-t-cte:AccountsReceivableOther>
+<jpfr-t-cte:OtherCA unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni530">14946000</jpfr-t-cte:OtherCA>
+<jpfr-t-cte:CurrentAssets unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni531">2424917000</jpfr-t-cte:CurrentAssets>
+<jpfr-t-cte:Buildings unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni532">452072000</jpfr-t-cte:Buildings>
+<jpfr-t-cte:AccumulatedDepreciationBuildings unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni533">-320696000</jpfr-t-cte:AccumulatedDepreciationBuildings>
+<jpfr-t-cte:BuildingsNet unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni534">131376000</jpfr-t-cte:BuildingsNet>
+<jpfr-t-cte:Structures unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni535">234793000</jpfr-t-cte:Structures>
+<jpfr-t-cte:AccumulatedDepreciationStructures unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni536">-152529000</jpfr-t-cte:AccumulatedDepreciationStructures>
+<jpfr-t-cte:StructuresNet unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni537">82264000</jpfr-t-cte:StructuresNet>
+<jpfr-t-cte:MachineryAndEquipment unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni538">1305122000</jpfr-t-cte:MachineryAndEquipment>
+<jpfr-t-cte:MachineryAndEquipmentNet unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni539">150831000</jpfr-t-cte:MachineryAndEquipmentNet>
+<jpfr-t-cte:Vehicles unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni540">10122000</jpfr-t-cte:Vehicles>
+<jpfr-t-cte:AccumulatedDepreciationMachineryAndEquipment unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni541">-1154290000</jpfr-t-cte:AccumulatedDepreciationMachineryAndEquipment>
+<jpfr-t-cte:AccumulatedDepreciationVehicles unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni542">-9493000</jpfr-t-cte:AccumulatedDepreciationVehicles>
+<jpfr-t-cte:VehiclesNet unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni543">629000</jpfr-t-cte:VehiclesNet>
+<jpfr-t-cte:ToolsFurnitureAndFixtures unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni544">95866000</jpfr-t-cte:ToolsFurnitureAndFixtures>
+<jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni545">-82089000</jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures>
+<jpfr-t-cte:ToolsFurnitureAndFixturesNet unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni546">13777000</jpfr-t-cte:ToolsFurnitureAndFixturesNet>
+<jpfr-t-cte:Land unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni547">213262000</jpfr-t-cte:Land>
+<jpfr-t-cte:PropertyPlantAndEquipment unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni548">592141000</jpfr-t-cte:PropertyPlantAndEquipment>
+<jpfr-t-cte:Software unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni549">19782000</jpfr-t-cte:Software>
+<jpfr-t-cte:TelephoneSubscriptionRight unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni550">290000</jpfr-t-cte:TelephoneSubscriptionRight>
+<jpfr-t-cte:SoftwareInProgress unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" xsi:nil="true" id="ni551"/>
+<jpfr-t-cte:StocksOfSubsidiariesAndAffiliates unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni552">20000000</jpfr-t-cte:StocksOfSubsidiariesAndAffiliates>
+<jpfr-t-cte:LongTermLoansReceivableFromSubsidiariesAndAffiliates unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" xsi:nil="true" id="ni553"/>
+<jpfr-t-cte:LongTermPrepaidExpenses unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" xsi:nil="true" id="ni554"/>
+<jpfr-t-cte:LeaseAndGuaranteeDeposits unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni555">20254000</jpfr-t-cte:LeaseAndGuaranteeDeposits>
+<jpfr-t-cte:InsuranceFunds unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni556">105080000</jpfr-t-cte:InsuranceFunds>
+<jpfr-t-cte:DeferredTaxAssetsIOA unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni557">37675000</jpfr-t-cte:DeferredTaxAssetsIOA>
+<jpfr-t-cte:OtherIOA unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni558">25881000</jpfr-t-cte:OtherIOA>
+<jpfr-t-cte:InvestmentsAndOtherAssets unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni559">286882000</jpfr-t-cte:InvestmentsAndOtherAssets>
+<jpfr-t-cte:NoncurrentAssets unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni560">899097000</jpfr-t-cte:NoncurrentAssets>
+<jpfr-t-cte:Assets unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni561">3324014000</jpfr-t-cte:Assets>
+<jpfr-t-cte:AccountsPayableTrade unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni562">255853000</jpfr-t-cte:AccountsPayableTrade>
+<jpfr-t-cte:CurrentPortionOfLongTermLoansPayable unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni563">60960000</jpfr-t-cte:CurrentPortionOfLongTermLoansPayable>
+<jpfr-t-cte:LeaseObligationsCL unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni564">4329000</jpfr-t-cte:LeaseObligationsCL>
+<jpfr-t-cte:AccountsPayableOther unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni565">31998000</jpfr-t-cte:AccountsPayableOther>
+<jpfr-t-cte:AccruedExpenses unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni566">21903000</jpfr-t-cte:AccruedExpenses>
+<jpfr-t-cte:IncomeTaxesPayable unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" xsi:nil="true" id="ni567"/>
+<jpfr-t-cte:DepositsReceived unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni568">7720000</jpfr-t-cte:DepositsReceived>
+<jpfr-t-cte:ProvisionForBonuses unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni569">15070000</jpfr-t-cte:ProvisionForBonuses>
+<jpfr-t-cte:OtherCL unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni570">104000</jpfr-t-cte:OtherCL>
+<jpfr-t-cte:CurrentLiabilities unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni571">397940000</jpfr-t-cte:CurrentLiabilities>
+<jpfr-t-cte:LongTermLoansPayable unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni572">793320000</jpfr-t-cte:LongTermLoansPayable>
+<jpfr-t-cte:LeaseObligationsNCL unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni573">7505000</jpfr-t-cte:LeaseObligationsNCL>
+<jpfr-t-cte:ProvisionForRetirementBenefits unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni574">80008000</jpfr-t-cte:ProvisionForRetirementBenefits>
+<jpfr-t-cte:ProvisionForDirectorsRetirementBenefits unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni575">25570000</jpfr-t-cte:ProvisionForDirectorsRetirementBenefits>
+<jpfr-t-cte:NoncurrentLiabilities unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni576">906404000</jpfr-t-cte:NoncurrentLiabilities>
+<jpfr-t-cte:Liabilities unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni577">1304344000</jpfr-t-cte:Liabilities>
+<jpfr-t-cte:CapitalStock unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni578">415500000</jpfr-t-cte:CapitalStock>
+<jpfr-t-cte:LegalCapitalSurplus unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni579">240120000</jpfr-t-cte:LegalCapitalSurplus>
+<jpfr-t-cte:CapitalSurplus unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni580">240120000</jpfr-t-cte:CapitalSurplus>
+<jpfr-t-cte:LegalRetainedEarnings unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni581">93750000</jpfr-t-cte:LegalRetainedEarnings>
+<jpfr-t-cte:GeneralReserve unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni582">1600000000</jpfr-t-cte:GeneralReserve>
+<jpfr-t-cte:RetainedEarningsBroughtForward unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni583">200690000</jpfr-t-cte:RetainedEarningsBroughtForward>
+<jpfr-t-cte:RetainedEarnings unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni584">1894440000</jpfr-t-cte:RetainedEarnings>
+<jpfr-t-cte:TreasuryStock unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni585">-580905000</jpfr-t-cte:TreasuryStock>
+<jpfr-t-cte:ShareholdersEquity unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni586">1969155000</jpfr-t-cte:ShareholdersEquity>
+<jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni587">-5878000</jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities>
+<jpfr-t-cte:ValuationAndTranslationAdjustments unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni588">-5878000</jpfr-t-cte:ValuationAndTranslationAdjustments>
+<jpfr-t-cte:SubscriptionRightsToShares unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni589">56394000</jpfr-t-cte:SubscriptionRightsToShares>
+<jpfr-t-cte:NetAssets unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni590">2019670000</jpfr-t-cte:NetAssets>
+<jpfr-t-cte:LiabilitiesAndNetAssets unitRef="JPY" contextRef="CurrentYearNonConsolidatedInstant" decimals="-3" id="ni591">3324014000</jpfr-t-cte:LiabilitiesAndNetAssets>
+<jpfr-t-cte:SellingGeneralAndAdministrativeExpenses unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni592">370130000</jpfr-t-cte:SellingGeneralAndAdministrativeExpenses>
+<jpfr-t-cte:OperatingIncome unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni593">-90391000</jpfr-t-cte:OperatingIncome>
+<jpfr-t-cte:InterestIncomeNOI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni594">1073000</jpfr-t-cte:InterestIncomeNOI>
+<jpfr-t-cte:DividendsIncomeNOI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni595">1276000</jpfr-t-cte:DividendsIncomeNOI>
+<jpfr-t-cte:EquityInEarningsOfAffiliatesNOI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni596">21782000</jpfr-t-cte:EquityInEarningsOfAffiliatesNOI>
+<jpfr-t-cte:PurchaseDiscountsNOI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni597">14497000</jpfr-t-cte:PurchaseDiscountsNOI>
+<jpfr-t-cte:InsurancePremiumsRefundedCancellationNOI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni598"/>
+<jpfr-t-cte:OtherNOI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni599">8399000</jpfr-t-cte:OtherNOI>
+<jpfr-t-cte:NonOperatingIncome unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni600">50910000</jpfr-t-cte:NonOperatingIncome>
+<jpfr-t-cte:InterestExpensesNOE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni601">12925000</jpfr-t-cte:InterestExpensesNOE>
+<jpfr-t-cte:OtherNOE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni602">5943000</jpfr-t-cte:OtherNOE>
+<jpfr-t-cte:NonOperatingExpenses unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni603">18868000</jpfr-t-cte:NonOperatingExpenses>
+<jpfr-t-cte:OrdinaryIncome unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni604">-58349000</jpfr-t-cte:OrdinaryIncome>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCS unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni605"/>
+<jpfr-t-cte:DividendsFromSurplusRE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni606">-27954000</jpfr-t-cte:DividendsFromSurplusRE>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni607">-63797000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodRE>
+<jpfr-t-cte:PurchaseOfTreasuryStockTS unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni608">-97000</jpfr-t-cte:PurchaseOfTreasuryStockTS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni609">-97000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodTS>
+<jpfr-t-cte:DividendsFromSurplusSE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni610">-27954000</jpfr-t-cte:DividendsFromSurplusSE>
+<jpfr-t-cte:NetIncomeSE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni611">-35842000</jpfr-t-cte:NetIncomeSE>
+<jpfr-t-cte:PurchaseOfTreasuryStockSE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni612">-97000</jpfr-t-cte:PurchaseOfTreasuryStockSE>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni613">-63894000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSE>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni614">-1538000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityAFS>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni615">-1538000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodAFS>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityFTA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni616">-885000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityFTA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodFTA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni617">-885000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodFTA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni618">-2424000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityVTA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni619">-2424000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodVTA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquitySRS unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni620"/>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodSRS unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni621"/>
+<jpfr-t-cte:DividendsFromSurplusNA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni622">-27954000</jpfr-t-cte:DividendsFromSurplusNA>
+<jpfr-t-cte:NetIncomeNA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni623">-35842000</jpfr-t-cte:NetIncomeNA>
+<jpfr-t-cte:PurchaseOfTreasuryStockNA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni624">-97000</jpfr-t-cte:PurchaseOfTreasuryStockNA>
+<jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni625">-2424000</jpfr-t-cte:NetChangesOfItemsOtherThanShareholdersEquityNA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni626">-66319000</jpfr-t-cte:TotalChangesOfItemsDuringThePeriodNA>
+<jpfr-t-cte:TotalChangesOfItemsDuringThePeriodCAP unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni627"/>
+<jpfr-t-cte:DepreciationAndAmortizationOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni628">97848000</jpfr-t-cte:DepreciationAndAmortizationOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForBonusesOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni629">-20129000</jpfr-t-cte:IncreaseDecreaseInProvisionForBonusesOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForDirectorsBonusesOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni630"/>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForRetirementBenefitsOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni631">10763000</jpfr-t-cte:IncreaseDecreaseInProvisionForRetirementBenefitsOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInProvisionForDirectorsRetirementBenefitsOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni632">-660000</jpfr-t-cte:IncreaseDecreaseInProvisionForDirectorsRetirementBenefitsOpeCF>
+<jpfr-t-cte:ShareBasedCompensationExpensesOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni633"/>
+<jpfr-t-cte:ImpairmentLossOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni634">16346000</jpfr-t-cte:ImpairmentLossOpeCF>
+<jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni635"/>
+<jpfr-t-cte:InterestAndDividendsIncomeOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni636">-2350000</jpfr-t-cte:InterestAndDividendsIncomeOpeCF>
+<jpfr-t-cte:EquityInEarningsLossesOfAffiliatesOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni637">-21782000</jpfr-t-cte:EquityInEarningsLossesOfAffiliatesOpeCF>
+<jpfr-t-cte:LossOnRetirementOfPropertyPlantAndEquipmentOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni638">3478000</jpfr-t-cte:LossOnRetirementOfPropertyPlantAndEquipmentOpeCF>
+<jpfr-t-cte:InterestExpensesOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni639">12925000</jpfr-t-cte:InterestExpensesOpeCF>
+<jpfr-t-cte:DecreaseIncreaseInNotesAndAccountsReceivableTradeOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni640">-220063000</jpfr-t-cte:DecreaseIncreaseInNotesAndAccountsReceivableTradeOpeCF>
+<jpfr-t-cte:DecreaseIncreaseInInventoriesOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni641">313579000</jpfr-t-cte:DecreaseIncreaseInInventoriesOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInNotesAndAccountsPayableTradeOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni642">139132000</jpfr-t-cte:IncreaseDecreaseInNotesAndAccountsPayableTradeOpeCF>
+<jpfr-t-cte:IncreaseDecreaseInAccountsPayableOtherOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni643">-20983000</jpfr-t-cte:IncreaseDecreaseInAccountsPayableOtherOpeCF>
+<jpfr-t-cte:SubtotalOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni644">241814000</jpfr-t-cte:SubtotalOpeCF>
+<jpfr-t-cte:InterestAndDividendsIncomeReceivedOpeCFInvCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni645">25413000</jpfr-t-cte:InterestAndDividendsIncomeReceivedOpeCFInvCF>
+<jpfr-t-cte:InterestExpensesPaidOpeCFFinCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni646">-13865000</jpfr-t-cte:InterestExpensesPaidOpeCFFinCF>
+<jpfr-t-cte:IncomeTaxesPaidOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni647">-29911000</jpfr-t-cte:IncomeTaxesPaidOpeCF>
+<jpfr-t-cte:ReversalOfProvisionForBonusesEI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni648">14000000</jpfr-t-cte:ReversalOfProvisionForBonusesEI>
+<jpfr-t-cte:ReversalOfProvisionForDirectorsRetirementBenefitsEI unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni649">660000</jpfr-t-cte:ReversalOfProvisionForDirectorsRetirementBenefitsEI>
+<jpfr-t-cte:ExtraordinaryIncome unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni650">14660000</jpfr-t-cte:ExtraordinaryIncome>
+<jpfr-asr-E01061-000:ProductComplaintLossEL unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni651"/>
+<jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni652">3478000</jpfr-t-cte:LossOnRetirementOfNoncurrentAssetsEL>
+<jpfr-t-cte:ImpairmentLossEL unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni653">16346000</jpfr-t-cte:ImpairmentLossEL>
+<jpfr-t-cte:LossOnValuationOfTelephoneSubscriptionRightEL unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni654"/>
+<jpfr-t-cte:ExtraordinaryLoss unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni655">19825000</jpfr-t-cte:ExtraordinaryLoss>
+<jpfr-t-cte:IncomeBeforeIncomeTaxes unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni656">-63514000</jpfr-t-cte:IncomeBeforeIncomeTaxes>
+<jpfr-t-cte:IncomeTaxesCurrent unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni657">8885000</jpfr-t-cte:IncomeTaxesCurrent>
+<jpfr-t-cte:IncomeTaxesDeferred unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni658">-36557000</jpfr-t-cte:IncomeTaxesDeferred>
+<jpfr-t-cte:IncomeTaxes unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni659">-27672000</jpfr-t-cte:IncomeTaxes>
+<jpfr-t-cte:NetIncome unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni660">-35842000</jpfr-t-cte:NetIncome>
+<jpfr-t-cte:IncomeTaxesRefundOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni661">109245000</jpfr-t-cte:IncomeTaxesRefundOpeCF>
+<jpfr-t-cte:NetCashProvidedByUsedInOperatingActivities unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni662">332696000</jpfr-t-cte:NetCashProvidedByUsedInOperatingActivities>
+<jpfr-t-cte:PurchaseOfPropertyPlantAndEquipmentInvCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni663">-23762000</jpfr-t-cte:PurchaseOfPropertyPlantAndEquipmentInvCF>
+<jpfr-t-cte:PurchaseOfIntangibleAssetsInvCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni664">-1695000</jpfr-t-cte:PurchaseOfIntangibleAssetsInvCF>
+<jpfr-t-cte:PurchaseOfInvestmentSecuritiesInvCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni665">-4796000</jpfr-t-cte:PurchaseOfInvestmentSecuritiesInvCF>
+<jpfr-t-cte:CollectionOfLoansReceivableInvCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni666">10000000</jpfr-t-cte:CollectionOfLoansReceivableInvCF>
+<jpfr-t-cte:OtherNetInvCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni667">-1488000</jpfr-t-cte:OtherNetInvCF>
+<jpfr-t-cte:NetCashProvidedByUsedInInvestmentActivities unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni668">-21742000</jpfr-t-cte:NetCashProvidedByUsedInInvestmentActivities>
+<jpfr-t-cte:ProceedsFromLongTermLoansPayableFinCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni669">900000000</jpfr-t-cte:ProceedsFromLongTermLoansPayableFinCF>
+<jpfr-t-cte:RepaymentOfLongTermLoansPayableFinCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni670">-713830000</jpfr-t-cte:RepaymentOfLongTermLoansPayableFinCF>
+<jpfr-t-cte:RepaymentsOfLeaseObligationsFinCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni671">-4399000</jpfr-t-cte:RepaymentsOfLeaseObligationsFinCF>
+<jpfr-t-cte:PurchaseOfTreasuryStockFinCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni672">-97000</jpfr-t-cte:PurchaseOfTreasuryStockFinCF>
+<jpfr-t-cte:CashDividendsPaidFinCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni673">-28057000</jpfr-t-cte:CashDividendsPaidFinCF>
+<jpfr-t-cte:NetCashProvidedByUsedInFinancingActivities unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni674">153615000</jpfr-t-cte:NetCashProvidedByUsedInFinancingActivities>
+<jpfr-t-cte:NetIncreaseDecreaseInCashAndCashEquivalents unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni675">464568000</jpfr-t-cte:NetIncreaseDecreaseInCashAndCashEquivalents>
+<jpfr-t-cte:NetSales unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni676">2399255000</jpfr-t-cte:NetSales>
+<jpfr-t-cte:CostOfSales unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni677">2119516000</jpfr-t-cte:CostOfSales>
+<jpfr-t-cte:GrossProfit unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni678">279738000</jpfr-t-cte:GrossProfit>
+<jpfr-t-cte:OtherNetOpeCF unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni679">-2775000</jpfr-t-cte:OtherNetOpeCF>
+<jpfr-t-cte:LitigationSettlementEL unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" xsi:nil="true" id="ni680"/>
+<jpfr-t-cte:SubsidyIncomeNOIBounty unitRef="JPY" contextRef="CurrentYearConsolidatedDuration" decimals="-3" id="ni681">3880000</jpfr-t-cte:SubsidyIncomeNOIBounty>
+<jpfr-t-cte:NoncurrentAssets unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni682">933195000</jpfr-t-cte:NoncurrentAssets>
+<jpfr-t-cte:Assets unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni683">3438224000</jpfr-t-cte:Assets>
+<jpfr-t-cte:AccountsPayableTrade unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni684">255853000</jpfr-t-cte:AccountsPayableTrade>
+<jpfr-t-cte:CurrentPortionOfLongTermLoansPayable unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni685">60960000</jpfr-t-cte:CurrentPortionOfLongTermLoansPayable>
+<jpfr-t-cte:LeaseObligationsCL unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni686">4329000</jpfr-t-cte:LeaseObligationsCL>
+<jpfr-t-cte:IncomeTaxesPayable unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni687">90000</jpfr-t-cte:IncomeTaxesPayable>
+<jpfr-t-cte:DeferredTaxLiabilitiesCL unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni688">715000</jpfr-t-cte:DeferredTaxLiabilitiesCL>
+<jpfr-t-cte:ProvisionForBonuses unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni689">15070000</jpfr-t-cte:ProvisionForBonuses>
+<jpfr-t-cte:OtherCL unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni690">61726000</jpfr-t-cte:OtherCL>
+<jpfr-t-cte:CurrentLiabilities unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni691">398745000</jpfr-t-cte:CurrentLiabilities>
+<jpfr-t-cte:LongTermLoansPayable unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni692">793320000</jpfr-t-cte:LongTermLoansPayable>
+<jpfr-t-cte:LeaseObligationsNCL unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni693">7505000</jpfr-t-cte:LeaseObligationsNCL>
+<jpfr-t-cte:DeferredTaxLiabilitiesNCL unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni694">1389000</jpfr-t-cte:DeferredTaxLiabilitiesNCL>
+<jpfr-t-cte:ProvisionForRetirementBenefits unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni695">80008000</jpfr-t-cte:ProvisionForRetirementBenefits>
+<jpfr-t-cte:ProvisionForDirectorsRetirementBenefits unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni696">25570000</jpfr-t-cte:ProvisionForDirectorsRetirementBenefits>
+<jpfr-t-cte:NoncurrentLiabilities unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni697">907793000</jpfr-t-cte:NoncurrentLiabilities>
+<jpfr-t-cte:Liabilities unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni698">1306539000</jpfr-t-cte:Liabilities>
+<jpfr-t-cte:CapitalStock unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni699">415500000</jpfr-t-cte:CapitalStock>
+<jpfr-t-cte:CapitalSurplus unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni700">240120000</jpfr-t-cte:CapitalSurplus>
+<jpfr-t-cte:RetainedEarnings unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni701">2029414000</jpfr-t-cte:RetainedEarnings>
+<jpfr-t-cte:TreasuryStock unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni702">-588075000</jpfr-t-cte:TreasuryStock>
+<jpfr-t-cte:ShareholdersEquity unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni703">2096959000</jpfr-t-cte:ShareholdersEquity>
+<jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni704">-5878000</jpfr-t-cte:ValuationDifferenceOnAvailableForSaleSecurities>
+<jpfr-t-cte:ForeignCurrencyTranslationAdjustment unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni705">-8431000</jpfr-t-cte:ForeignCurrencyTranslationAdjustment>
+<jpfr-t-cte:ValuationAndTranslationAdjustments unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni706">-14310000</jpfr-t-cte:ValuationAndTranslationAdjustments>
+<jpfr-t-cte:SubscriptionRightsToShares unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni707">49035000</jpfr-t-cte:SubscriptionRightsToShares>
+<jpfr-t-cte:NetAssets unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni708">2131684000</jpfr-t-cte:NetAssets>
+<jpfr-t-cte:LiabilitiesAndNetAssets unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni709">3438224000</jpfr-t-cte:LiabilitiesAndNetAssets>
+<jpfr-t-cte:CashAndDeposits unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni710">1508083000</jpfr-t-cte:CashAndDeposits>
+<jpfr-t-cte:NotesAndAccountsReceivableTrade unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni711">678238000</jpfr-t-cte:NotesAndAccountsReceivableTrade>
+<jpfr-t-cte:MerchandiseAndFinishedGoods unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni712">121485000</jpfr-t-cte:MerchandiseAndFinishedGoods>
+<jpfr-t-cte:WorkInProcess unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni713">11041000</jpfr-t-cte:WorkInProcess>
+<jpfr-t-cte:RawMaterialsAndSupplies unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni714">55665000</jpfr-t-cte:RawMaterialsAndSupplies>
+<jpfr-t-cte:DeferredTaxAssetsCA unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni715">45199000</jpfr-t-cte:DeferredTaxAssetsCA>
+<jpfr-t-cte:OtherCA unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni716">85315000</jpfr-t-cte:OtherCA>
+<jpfr-t-cte:CurrentAssets unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni717">2505028000</jpfr-t-cte:CurrentAssets>
+<jpfr-t-cte:BuildingsAndStructures unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni718">686866000</jpfr-t-cte:BuildingsAndStructures>
+<jpfr-t-cte:AccumulatedDepreciationBuildingsAndStructures unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni719">-473225000</jpfr-t-cte:AccumulatedDepreciationBuildingsAndStructures>
+<jpfr-t-cte:BuildingsAndStructuresNet unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni720">213641000</jpfr-t-cte:BuildingsAndStructuresNet>
+<jpfr-t-cte:MachineryEquipmentAndVehicles unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni721">1315245000</jpfr-t-cte:MachineryEquipmentAndVehicles>
+<jpfr-t-cte:AccumulatedDepreciationMachineryEquipmentAndVehicles unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni722">-1163783000</jpfr-t-cte:AccumulatedDepreciationMachineryEquipmentAndVehicles>
+<jpfr-t-cte:MachineryEquipmentAndVehiclesNet unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni723">151461000</jpfr-t-cte:MachineryEquipmentAndVehiclesNet>
+<jpfr-t-cte:ToolsFurnitureAndFixtures unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni724">95866000</jpfr-t-cte:ToolsFurnitureAndFixtures>
+<jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni725">-82089000</jpfr-t-cte:AccumulatedDepreciationToolsFurnitureAndFixtures>
+<jpfr-t-cte:ToolsFurnitureAndFixturesNet unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni726">13777000</jpfr-t-cte:ToolsFurnitureAndFixturesNet>
+<jpfr-t-cte:Land unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni727">213262000</jpfr-t-cte:Land>
+<jpfr-t-cte:PropertyPlantAndEquipment unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni728">592141000</jpfr-t-cte:PropertyPlantAndEquipment>
+<jpfr-t-cte:IntangibleAssets unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni729">20072000</jpfr-t-cte:IntangibleAssets>
+<jpfr-t-cte:InvestmentSecurities unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni730">77989000</jpfr-t-cte:InvestmentSecurities>
+<jpfr-t-cte:InvestmentsInOtherSecuritiesOfSubsidiariesAndAffiliates unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni731">54098000</jpfr-t-cte:InvestmentsInOtherSecuritiesOfSubsidiariesAndAffiliates>
+<jpfr-t-cte:LongTermLoansReceivableFromSubsidiariesAndAffiliates unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" xsi:nil="true" id="ni732"/>
+<jpfr-t-cte:InsuranceFunds unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni733">105080000</jpfr-t-cte:InsuranceFunds>
+<jpfr-t-cte:DeferredTaxAssetsIOA unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni734">37675000</jpfr-t-cte:DeferredTaxAssetsIOA>
+<jpfr-t-cte:OtherIOA unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni735">46136000</jpfr-t-cte:OtherIOA>
+<jpfr-t-cte:InvestmentsAndOtherAssets unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni736">320980000</jpfr-t-cte:InvestmentsAndOtherAssets>
+<jpfr-t-cte:CashAndCashEquivalents unitRef="JPY" contextRef="CurrentYearConsolidatedInstant" decimals="-3" id="ni737">1508083000</jpfr-t-cte:CashAndCashEquivalents>
+<jpfr-di:ContextIDBeginningOfPeriodSCNonconsolidatedSS contextRef="DocumentInfo">Prior1YearNonConsolidatedInstant</jpfr-di:ContextIDBeginningOfPeriodSCNonconsolidatedSS>
+<jpfr-di:ContextIDPeriodSCNonconsolidatedSS contextRef="DocumentInfo">CurrentYearNonConsolidatedDuration</jpfr-di:ContextIDPeriodSCNonconsolidatedSS>
+<jpfr-di:ContextIDEndOfPeriodSCNonconsolidatedSS contextRef="DocumentInfo">CurrentYearNonConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodSCNonconsolidatedSS>
+<jpfr-di:EntityNameJaEntityInformation contextRef="DocumentInfo">第一化成株式会社</jpfr-di:EntityNameJaEntityInformation>
+<jpfr-di:ConsolidatedFinancialStatementsXBRLDocumentInformation contextRef="DocumentInfo">true</jpfr-di:ConsolidatedFinancialStatementsXBRLDocumentInformation>
+<jpfr-di:ConsolidatedBSConsolidatedFinancialStatements contextRef="DocumentInfo">true</jpfr-di:ConsolidatedBSConsolidatedFinancialStatements>
+<jpfr-di:ExtendedLinkRoleLabelConsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/Consolidated</jpfr-di:ExtendedLinkRoleLabelConsolidatedBS>
+<jpfr-di:FirstColumnConsolidatedBS contextRef="DocumentInfo">true</jpfr-di:FirstColumnConsolidatedBS>
+<jpfr-di:ExtendedLinkRolePresentationFCConsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRolePresentationFCConsolidatedBS>
+<jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedBS>
+<jpfr-di:ContextIDEndOfPeriodFCConsolidatedBS contextRef="DocumentInfo">Prior1YearConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodFCConsolidatedBS>
+<jpfr-di:SecondColumnConsolidatedBS contextRef="DocumentInfo">true</jpfr-di:SecondColumnConsolidatedBS>
+<jpfr-di:ExtendedLinkRolePresentationSCConsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRolePresentationSCConsolidatedBS>
+<jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedBS>
+<jpfr-di:ContextIDEndOfPeriodSCConsolidatedBS contextRef="DocumentInfo">CurrentYearConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodSCConsolidatedBS>
+<jpfr-di:ConsolidatedPLConsolidatedFinancialStatements contextRef="DocumentInfo">true</jpfr-di:ConsolidatedPLConsolidatedFinancialStatements>
+<jpfr-di:ExtendedLinkRoleLabelConsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/Consolidated</jpfr-di:ExtendedLinkRoleLabelConsolidatedPL>
+<jpfr-di:FirstColumnConsolidatedPL contextRef="DocumentInfo">true</jpfr-di:FirstColumnConsolidatedPL>
+<jpfr-di:ExtendedLinkRolePresentationFCConsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRolePresentationFCConsolidatedPL>
+<jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedPL>
+<jpfr-di:ContextIDPeriodFCConsolidatedPL contextRef="DocumentInfo">Prior1YearConsolidatedDuration</jpfr-di:ContextIDPeriodFCConsolidatedPL>
+<jpfr-di:SecondColumnConsolidatedPL contextRef="DocumentInfo">true</jpfr-di:SecondColumnConsolidatedPL>
+<jpfr-di:ExtendedLinkRolePresentationSCConsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRolePresentationSCConsolidatedPL>
+<jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedPL>
+<jpfr-di:ContextIDPeriodSCConsolidatedPL contextRef="DocumentInfo">CurrentYearConsolidatedDuration</jpfr-di:ContextIDPeriodSCConsolidatedPL>
+<jpfr-di:ConsolidatedSSConsolidatedFinancialStatements contextRef="DocumentInfo">true</jpfr-di:ConsolidatedSSConsolidatedFinancialStatements>
+<jpfr-di:ExtendedLinkRoleLabelConsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/Consolidated</jpfr-di:ExtendedLinkRoleLabelConsolidatedSS>
+<jpfr-di:FirstColumnConsolidatedSS contextRef="DocumentInfo">true</jpfr-di:FirstColumnConsolidatedSS>
+<jpfr-di:ExtendedLinkRolePresentationFCConsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRolePresentationFCConsolidatedSS>
+<jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedSS>
+<jpfr-di:ExtendedLinkRole2CalculationFCConsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfChangesInNetAssets2</jpfr-di:ExtendedLinkRole2CalculationFCConsolidatedSS>
+<jpfr-di:ContextIDBeginningOfPeriodFCConsolidatedSS contextRef="DocumentInfo">Prior2YearConsolidatedInstant</jpfr-di:ContextIDBeginningOfPeriodFCConsolidatedSS>
+<jpfr-di:ContextIDPeriodFCConsolidatedSS contextRef="DocumentInfo">Prior1YearConsolidatedDuration</jpfr-di:ContextIDPeriodFCConsolidatedSS>
+<jpfr-di:ContextIDEndOfPeriodFCConsolidatedSS contextRef="DocumentInfo">Prior1YearConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodFCConsolidatedSS>
+<jpfr-di:SecondColumnConsolidatedSS contextRef="DocumentInfo">true</jpfr-di:SecondColumnConsolidatedSS>
+<jpfr-di:ExtendedLinkRolePresentationSCConsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRolePresentationSCConsolidatedSS>
+<jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedSS>
+<jpfr-di:ExtendedLinkRole2CalculationSCConsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfChangesInNetAssets2</jpfr-di:ExtendedLinkRole2CalculationSCConsolidatedSS>
+<jpfr-di:ContextIDBeginningOfPeriodSCConsolidatedSS contextRef="DocumentInfo">Prior1YearConsolidatedInstant</jpfr-di:ContextIDBeginningOfPeriodSCConsolidatedSS>
+<jpfr-di:ContextIDPeriodSCConsolidatedSS contextRef="DocumentInfo">CurrentYearConsolidatedDuration</jpfr-di:ContextIDPeriodSCConsolidatedSS>
+<jpfr-di:ContextIDEndOfPeriodSCConsolidatedSS contextRef="DocumentInfo">CurrentYearConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodSCConsolidatedSS>
+<jpfr-di:ConsolidatedCFConsolidatedFinancialStatements contextRef="DocumentInfo">true</jpfr-di:ConsolidatedCFConsolidatedFinancialStatements>
+<jpfr-di:ExtendedLinkRoleLabelConsolidatedCF contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/Consolidated</jpfr-di:ExtendedLinkRoleLabelConsolidatedCF>
+<jpfr-di:FirstColumnConsolidatedCF contextRef="DocumentInfo">true</jpfr-di:FirstColumnConsolidatedCF>
+<jpfr-di:ExtendedLinkRolePresentationFCConsolidatedCF contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfCashFlowsIndirect</jpfr-di:ExtendedLinkRolePresentationFCConsolidatedCF>
+<jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedCF contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfCashFlowsIndirect</jpfr-di:ExtendedLinkRoleCalculationFCConsolidatedCF>
+<jpfr-di:ContextIDBeginningOfPeriodFCConsolidatedCF contextRef="DocumentInfo">Prior2YearConsolidatedInstant</jpfr-di:ContextIDBeginningOfPeriodFCConsolidatedCF>
+<jpfr-di:ContextIDPeriodFCConsolidatedCF contextRef="DocumentInfo">Prior1YearConsolidatedDuration</jpfr-di:ContextIDPeriodFCConsolidatedCF>
+<jpfr-di:ContextIDEndOfPeriodFCConsolidatedCF contextRef="DocumentInfo">Prior1YearConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodFCConsolidatedCF>
+<jpfr-di:SecondColumnConsolidatedCF contextRef="DocumentInfo">true</jpfr-di:SecondColumnConsolidatedCF>
+<jpfr-di:ExtendedLinkRolePresentationSCConsolidatedCF contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfCashFlowsIndirect</jpfr-di:ExtendedLinkRolePresentationSCConsolidatedCF>
+<jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedCF contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfCashFlowsIndirect</jpfr-di:ExtendedLinkRoleCalculationSCConsolidatedCF>
+<jpfr-di:ContextIDBeginningOfPeriodSCConsolidatedCF contextRef="DocumentInfo">Prior1YearConsolidatedInstant</jpfr-di:ContextIDBeginningOfPeriodSCConsolidatedCF>
+<jpfr-di:ContextIDPeriodSCConsolidatedCF contextRef="DocumentInfo">CurrentYearConsolidatedDuration</jpfr-di:ContextIDPeriodSCConsolidatedCF>
+<jpfr-di:ContextIDEndOfPeriodSCConsolidatedCF contextRef="DocumentInfo">CurrentYearConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodSCConsolidatedCF>
+<jpfr-di:NonconsolidatedFinancialStatementsXBRLDocumentInformation contextRef="DocumentInfo">true</jpfr-di:NonconsolidatedFinancialStatementsXBRLDocumentInformation>
+<jpfr-di:NonconsolidatedBSNonconsolidatedFinancialStatements contextRef="DocumentInfo">true</jpfr-di:NonconsolidatedBSNonconsolidatedFinancialStatements>
+<jpfr-di:ExtendedLinkRoleLabelNonconsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidated</jpfr-di:ExtendedLinkRoleLabelNonconsolidatedBS>
+<jpfr-di:FirstColumnNonconsolidatedBS contextRef="DocumentInfo">true</jpfr-di:FirstColumnNonconsolidatedBS>
+<jpfr-di:ExtendedLinkRolePresentationFCNonconsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRolePresentationFCNonconsolidatedBS>
+<jpfr-di:ExtendedLinkRoleCalculationFCNonconsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRoleCalculationFCNonconsolidatedBS>
+<jpfr-di:ContextIDEndOfPeriodFCNonconsolidatedBS contextRef="DocumentInfo">Prior1YearNonConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodFCNonconsolidatedBS>
+<jpfr-di:SecondColumnNonconsolidatedBS contextRef="DocumentInfo">true</jpfr-di:SecondColumnNonconsolidatedBS>
+<jpfr-di:ExtendedLinkRolePresentationSCNonconsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRolePresentationSCNonconsolidatedBS>
+<jpfr-di:ExtendedLinkRoleCalculationSCNonconsolidatedBS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedBalanceSheets</jpfr-di:ExtendedLinkRoleCalculationSCNonconsolidatedBS>
+<jpfr-di:ContextIDEndOfPeriodSCNonconsolidatedBS contextRef="DocumentInfo">CurrentYearNonConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodSCNonconsolidatedBS>
+<jpfr-di:NonconsolidatedPLNonconsolidatedFinancialStatements contextRef="DocumentInfo">true</jpfr-di:NonconsolidatedPLNonconsolidatedFinancialStatements>
+<jpfr-di:ExtendedLinkRoleLabelNonconsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidated</jpfr-di:ExtendedLinkRoleLabelNonconsolidatedPL>
+<jpfr-di:FirstColumnNonconsolidatedPL contextRef="DocumentInfo">true</jpfr-di:FirstColumnNonconsolidatedPL>
+<jpfr-di:ExtendedLinkRolePresentationFCNonconsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRolePresentationFCNonconsolidatedPL>
+<jpfr-di:ExtendedLinkRoleCalculationFCNonconsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRoleCalculationFCNonconsolidatedPL>
+<jpfr-di:ContextIDPeriodFCNonconsolidatedPL contextRef="DocumentInfo">Prior1YearNonConsolidatedDuration</jpfr-di:ContextIDPeriodFCNonconsolidatedPL>
+<jpfr-di:SecondColumnNonconsolidatedPL contextRef="DocumentInfo">true</jpfr-di:SecondColumnNonconsolidatedPL>
+<jpfr-di:ExtendedLinkRolePresentationSCNonconsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRolePresentationSCNonconsolidatedPL>
+<jpfr-di:ExtendedLinkRoleCalculationSCNonconsolidatedPL contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfIncome</jpfr-di:ExtendedLinkRoleCalculationSCNonconsolidatedPL>
+<jpfr-di:ContextIDPeriodSCNonconsolidatedPL contextRef="DocumentInfo">CurrentYearNonConsolidatedDuration</jpfr-di:ContextIDPeriodSCNonconsolidatedPL>
+<jpfr-di:NonconsolidatedSSNonconsolidatedFinancialStatements contextRef="DocumentInfo">true</jpfr-di:NonconsolidatedSSNonconsolidatedFinancialStatements>
+<jpfr-di:ExtendedLinkRoleLabelNonconsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidated</jpfr-di:ExtendedLinkRoleLabelNonconsolidatedSS>
+<jpfr-di:FirstColumnNonconsolidatedSS contextRef="DocumentInfo">true</jpfr-di:FirstColumnNonconsolidatedSS>
+<jpfr-di:ExtendedLinkRolePresentationFCNonconsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRolePresentationFCNonconsolidatedSS>
+<jpfr-di:ExtendedLinkRoleCalculationFCNonconsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRoleCalculationFCNonconsolidatedSS>
+<jpfr-di:ExtendedLinkRole2CalculationFCNonconsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfChangesInNetAssets2</jpfr-di:ExtendedLinkRole2CalculationFCNonconsolidatedSS>
+<jpfr-di:ContextIDBeginningOfPeriodFCNonconsolidatedSS contextRef="DocumentInfo">Prior2YearNonConsolidatedInstant</jpfr-di:ContextIDBeginningOfPeriodFCNonconsolidatedSS>
+<jpfr-di:ContextIDPeriodFCNonconsolidatedSS contextRef="DocumentInfo">Prior1YearNonConsolidatedDuration</jpfr-di:ContextIDPeriodFCNonconsolidatedSS>
+<jpfr-di:ContextIDEndOfPeriodFCNonconsolidatedSS contextRef="DocumentInfo">Prior1YearNonConsolidatedInstant</jpfr-di:ContextIDEndOfPeriodFCNonconsolidatedSS>
+<jpfr-di:SecondColumnNonconsolidatedSS contextRef="DocumentInfo">true</jpfr-di:SecondColumnNonconsolidatedSS>
+<jpfr-di:ExtendedLinkRolePresentationSCNonconsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRolePresentationSCNonconsolidatedSS>
+<jpfr-di:ExtendedLinkRoleCalculationSCNonconsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfChangesInNetAssets</jpfr-di:ExtendedLinkRoleCalculationSCNonconsolidatedSS>
+<jpfr-di:ExtendedLinkRole2CalculationSCNonconsolidatedSS contextRef="DocumentInfo">http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfChangesInNetAssets2</jpfr-di:ExtendedLinkRole2CalculationSCNonconsolidatedSS>
+<link:footnoteLink xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedStatementsOfIncome" xlink:type="extended">
+<link:footnote xlink:label="fn1" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※4</link:footnote>
+<link:footnote xlink:label="fn3" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※1</link:footnote>
+<link:footnote xlink:label="fn6" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※2</link:footnote>
+<link:footnote xlink:label="fn11" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※3</link:footnote>
+<link:loc xlink:href="#ni441" xlink:label="ni441" xlink:type="locator"/>
+<link:loc xlink:href="#ni460" xlink:label="ni460" xlink:type="locator"/>
+<link:loc xlink:href="#ni167" xlink:label="ni167" xlink:type="locator"/>
+<link:loc xlink:href="#ni478" xlink:label="ni478" xlink:type="locator"/>
+<link:loc xlink:href="#ni197" xlink:label="ni197" xlink:type="locator"/>
+<link:loc xlink:href="#ni483" xlink:label="ni483" xlink:type="locator"/>
+<link:loc xlink:href="#ni518" xlink:label="ni518" xlink:type="locator"/>
+<link:loc xlink:href="#ni519" xlink:label="ni519" xlink:type="locator"/>
+<link:loc xlink:href="#ni464" xlink:label="ni464" xlink:type="locator"/>
+<link:loc xlink:href="#ni453" xlink:label="ni453" xlink:type="locator"/>
+<link:loc xlink:href="#ni202" xlink:label="ni202" xlink:type="locator"/>
+<link:loc xlink:href="#ni440" xlink:label="ni440" xlink:type="locator"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni441" xlink:to="fn1" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni460" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni167" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni478" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni197" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni483" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni518" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni519" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni464" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni453" xlink:to="fn3" xlink:type="arc"/>
+<link:footnoteArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni478" xlink:to="fn6" xlink:type="arc"/>
+<link:footnoteArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni197" xlink:to="fn6" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni202" xlink:to="fn11" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni440" xlink:to="fn11" xlink:type="arc"/>
+</link:footnoteLink>
+<link:footnoteLink xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfIncome" xlink:type="extended">
+<link:footnote xlink:label="fn2" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※1</link:footnote>
+<link:footnote xlink:label="fn7" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※3</link:footnote>
+<link:footnote xlink:label="fn8" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※2</link:footnote>
+<link:footnote xlink:label="fn9" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※4</link:footnote>
+<link:loc xlink:href="#ni335" xlink:label="ni335" xlink:type="locator"/>
+<link:loc xlink:href="#ni592" xlink:label="ni592" xlink:type="locator"/>
+<link:loc xlink:href="#ni347" xlink:label="ni347" xlink:type="locator"/>
+<link:loc xlink:href="#ni652" xlink:label="ni652" xlink:type="locator"/>
+<link:loc xlink:href="#ni653" xlink:label="ni653" xlink:type="locator"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni335" xlink:to="fn2" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni592" xlink:to="fn2" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni347" xlink:to="fn7" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni652" xlink:to="fn7" xlink:type="arc"/>
+<link:footnoteArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni335" xlink:to="fn8" xlink:type="arc"/>
+<link:footnoteArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni592" xlink:to="fn8" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni653" xlink:to="fn9" xlink:type="arc"/>
+</link:footnoteLink>
+<link:footnoteLink xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NonConsolidatedBalanceSheets" xlink:type="extended">
+<link:footnote xlink:label="fn4" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※3</link:footnote>
+<link:footnote xlink:label="fn12" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※1</link:footnote>
+<link:loc xlink:href="#ni530" xlink:label="ni530" xlink:type="locator"/>
+<link:loc xlink:href="#ni523" xlink:label="ni523" xlink:type="locator"/>
+<link:loc xlink:href="#ni259" xlink:label="ni259" xlink:type="locator"/>
+<link:loc xlink:href="#ni280" xlink:label="ni280" xlink:type="locator"/>
+<link:loc xlink:href="#ni565" xlink:label="ni565" xlink:type="locator"/>
+<link:loc xlink:href="#ni219" xlink:label="ni219" xlink:type="locator"/>
+<link:loc xlink:href="#ni287" xlink:label="ni287" xlink:type="locator"/>
+<link:loc xlink:href="#ni547" xlink:label="ni547" xlink:type="locator"/>
+<link:loc xlink:href="#ni563" xlink:label="ni563" xlink:type="locator"/>
+<link:loc xlink:href="#ni223" xlink:label="ni223" xlink:type="locator"/>
+<link:loc xlink:href="#ni252" xlink:label="ni252" xlink:type="locator"/>
+<link:loc xlink:href="#ni537" xlink:label="ni537" xlink:type="locator"/>
+<link:loc xlink:href="#ni229" xlink:label="ni229" xlink:type="locator"/>
+<link:loc xlink:href="#ni572" xlink:label="ni572" xlink:type="locator"/>
+<link:loc xlink:href="#ni534" xlink:label="ni534" xlink:type="locator"/>
+<link:loc xlink:href="#ni226" xlink:label="ni226" xlink:type="locator"/>
+<link:loc xlink:href="#ni279" xlink:label="ni279" xlink:type="locator"/>
+<link:loc xlink:href="#ni539" xlink:label="ni539" xlink:type="locator"/>
+<link:loc xlink:href="#ni558" xlink:label="ni558" xlink:type="locator"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni530" xlink:to="fn4" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni523" xlink:to="fn4" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni259" xlink:to="fn4" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni280" xlink:to="fn4" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni565" xlink:to="fn4" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni219" xlink:to="fn4" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni287" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni547" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni563" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni223" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni252" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni537" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni229" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni572" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni534" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni226" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni279" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni539" xlink:to="fn12" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni558" xlink:to="fn12" xlink:type="arc"/>
+</link:footnoteLink>
+<link:footnoteLink xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedStatementsOfCashFlowsIndirect" xlink:type="extended">
+<link:footnote xlink:label="fn5" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumberPeriodEnd" xlink:type="resource" xml:lang="ja">※</link:footnote>
+<link:loc xlink:href="#ni434" xlink:label="ni434" xlink:type="locator"/>
+<link:loc xlink:href="#ni737" xlink:label="ni737" xlink:type="locator"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni434" xlink:to="fn5" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni737" xlink:to="fn5" xlink:type="arc"/>
+</link:footnoteLink>
+<link:footnoteLink xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/ConsolidatedBalanceSheets" xlink:type="extended">
+<link:footnote xlink:label="fn10" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※3</link:footnote>
+<link:footnote xlink:label="fn13" xlink:role="http://info.edinet-fsa.go.jp/jp/fr/gaap/role/NotesNumber" xlink:type="resource" xml:lang="ja">※1</link:footnote>
+<link:loc xlink:href="#ni690" xlink:label="ni690" xlink:type="locator"/>
+<link:loc xlink:href="#ni716" xlink:label="ni716" xlink:type="locator"/>
+<link:loc xlink:href="#ni409" xlink:label="ni409" xlink:type="locator"/>
+<link:loc xlink:href="#ni381" xlink:label="ni381" xlink:type="locator"/>
+<link:loc xlink:href="#ni711" xlink:label="ni711" xlink:type="locator"/>
+<link:loc xlink:href="#ni383" xlink:label="ni383" xlink:type="locator"/>
+<link:loc xlink:href="#ni720" xlink:label="ni720" xlink:type="locator"/>
+<link:loc xlink:href="#ni406" xlink:label="ni406" xlink:type="locator"/>
+<link:loc xlink:href="#ni411" xlink:label="ni411" xlink:type="locator"/>
+<link:loc xlink:href="#ni390" xlink:label="ni390" xlink:type="locator"/>
+<link:loc xlink:href="#ni685" xlink:label="ni685" xlink:type="locator"/>
+<link:loc xlink:href="#ni692" xlink:label="ni692" xlink:type="locator"/>
+<link:loc xlink:href="#ni394" xlink:label="ni394" xlink:type="locator"/>
+<link:loc xlink:href="#ni723" xlink:label="ni723" xlink:type="locator"/>
+<link:loc xlink:href="#ni727" xlink:label="ni727" xlink:type="locator"/>
+<link:loc xlink:href="#ni387" xlink:label="ni387" xlink:type="locator"/>
+<link:loc xlink:href="#ni735" xlink:label="ni735" xlink:type="locator"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni690" xlink:to="fn10" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni716" xlink:to="fn10" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni409" xlink:to="fn10" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni381" xlink:to="fn10" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni711" xlink:to="fn10" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni383" xlink:to="fn10" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni720" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni406" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni411" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni390" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni685" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni692" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni394" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni723" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni727" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni387" xlink:to="fn13" xlink:type="arc"/>
+<link:footnoteArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" xlink:from="ni735" xlink:to="fn13" xlink:type="arc"/>
+</link:footnoteLink>
+</xbrli:xbrl>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>有報キャッチャー - EDINET情報配信サービス</title>
+  <link href="http://resource.ufocatch.com/" />
+  <updated>2018-01-30T05:34:08Z</updated>
+  <id>http://resource.ufocatch.com/atom/edinetx/query/6200</id>
+  <entry>
+    <title>【E32495】株式会社インソース 内部統制報告書－第15期(平成28年10月1日－平成29年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017122100134" />
+    <id>ED2017122100134</id>
+    <docid>S100C0FG</docid>
+    <updated>2017-12-21T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017122100134" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100134/PublicDoc/0000000_header_jpctl010000-icr-001_E32495-000_2017-12-21_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100134/PublicDoc/0101010_honbun_jpctl010000-icr-001_E32495-000_2017-12-21_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100134/PublicDoc/jpctl010000-icr-001_E32495-000_2017-12-21_01_2017-12-21.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100134/PublicDoc/jpctl010000-icr-001_E32495-000_2017-12-21_01_2017-12-21.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100134/PublicDoc/jpctl010000-icr-001_E32495-000_2017-12-21_01_2017-12-21_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100134/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017122100135" />
+    <id>ED2017122100135</id>
+    <docid>S100C0FJ</docid>
+    <updated>2017-12-21T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017122100135" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100135/PublicDoc/0000000_header_jpcrp050300-esr-001_E32495-000_2017-12-21_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100135/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E32495-000_2017-12-21_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100135/PublicDoc/jpcrp050300-esr-001_E32495-000_2017-12-21_01_2017-12-21.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100135/PublicDoc/jpcrp050300-esr-001_E32495-000_2017-12-21_01_2017-12-21.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100135/PublicDoc/jpcrp050300-esr-001_E32495-000_2017-12-21_01_2017-12-21_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100135/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 有価証券報告書－第15期(平成28年10月1日－平成29年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017122100138" />
+    <id>ED2017122100138</id>
+    <docid>S100C0FA</docid>
+    <updated>2017-12-21T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017122100138" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aai-cc-001_E32495-000_2017-09-30_01_2017-12-21.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aai-cc-001_E32495-000_2017-09-30_01_2017-12-21.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aai-cc-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aai-cc-001_E32495-000_2017-09-30_01_2017-12-21_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aar-cn-001_E32495-000_2017-09-30_01_2017-12-21.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aar-cn-001_E32495-000_2017-09-30_01_2017-12-21.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aar-cn-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/jpaud-aar-cn-001_E32495-000_2017-09-30_01_2017-12-21_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0000000_header_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0105020_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_ixbrl.htm" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/images/0101010_001.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/images/0101010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/images/0104010_001.jpg" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/jpcrp030000-asr-001_E32495-000_2017-09-30_01_2017-12-21_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017122100138/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 四半期報告書－第15期第3四半期(平成29年4月1日－平成29年6月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017081002650" />
+    <id>ED2017081002650</id>
+    <docid>S100B5TB</docid>
+    <updated>2017-08-10T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017081002650" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-06-30_01_2017-08-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-06-30_01_2017-08-10.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-06-30_01_2017-08-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/0000000_header_jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/0101010_honbun_jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/0102010_honbun_jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/0103010_honbun_jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/0104010_honbun_jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/0200010_honbun_jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/jpcrp040300-q3r-001_E32495-000_2017-06-30_01_2017-08-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002650/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 四半期報告書－第15期第2四半期(平成29年1月1日－平成29年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017051200800" />
+    <id>ED2017051200800</id>
+    <docid>S100A8DS</docid>
+    <updated>2017-05-12T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017051200800" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-03-31_01_2017-05-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-03-31_01_2017-05-12.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-03-31_01_2017-05-12_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/AuditDoc/jpaud-qrr-cc-001_E32495-000_2017-03-31_01_2017-05-12_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/0000000_header_jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/0101010_honbun_jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/0102010_honbun_jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/0103010_honbun_jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/0104010_honbun_jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/0200010_honbun_jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/jpcrp040300-q2r-001_E32495-000_2017-03-31_01_2017-05-12_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017051200800/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 四半期報告書－第15期第1四半期(平成28年10月1日－平成28年12月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017021300763" />
+    <id>ED2017021300763</id>
+    <docid>S1009OYH</docid>
+    <updated>2017-02-13T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017021300763" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-12-31_01_2017-02-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-12-31_01_2017-02-13.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-12-31_01_2017-02-13_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-12-31_01_2017-02-13_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/0000000_header_jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/0101010_honbun_jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/0102010_honbun_jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/0103010_honbun_jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/0104010_honbun_jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/0200010_honbun_jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/jpcrp040300-q1r-001_E32495-000_2016-12-31_01_2017-02-13_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021300763/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 自己株券買付状況報告書（法２４条の６第１項に基づくもの）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017011100137" />
+    <id>ED2017011100137</id>
+    <docid>S1009F9C</docid>
+    <updated>2017-01-11T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017011100137" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017011100137/PublicDoc/0000000_header_jpcrp170000-sbr-001_E32495-000_2017-01-11_01_2017-01-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017011100137/PublicDoc/0100010_honbun_jpcrp170000-sbr-001_E32495-000_2017-01-11_01_2017-01-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017011100137/PublicDoc/jpcrp170000-sbr-001_E32495-000_2017-01-11_01_2017-01-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017011100137/PublicDoc/jpcrp170000-sbr-001_E32495-000_2017-01-11_01_2017-01-11.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017011100137/PublicDoc/jpcrp170000-sbr-001_E32495-000_2017-01-11_01_2017-01-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017011100137/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 内部統制報告書－第14期(平成27年10月1日－平成28年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016122200271" />
+    <id>ED2016122200271</id>
+    <docid>S1009CWX</docid>
+    <updated>2016-12-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016122200271" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200271/PublicDoc/0000000_header_jpctl010000-icr-001_E32495-000_2016-12-22_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200271/PublicDoc/0101010_honbun_jpctl010000-icr-001_E32495-000_2016-12-22_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200271/PublicDoc/jpctl010000-icr-001_E32495-000_2016-12-22_01_2016-12-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200271/PublicDoc/jpctl010000-icr-001_E32495-000_2016-12-22_01_2016-12-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200271/PublicDoc/jpctl010000-icr-001_E32495-000_2016-12-22_01_2016-12-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200271/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 有価証券報告書－第14期(平成27年10月1日－平成28年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016122200273" />
+    <id>ED2016122200273</id>
+    <docid>S1009CWM</docid>
+    <updated>2016-12-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016122200273" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aai-cc-001_E32495-000_2016-09-30_01_2016-12-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aai-cc-001_E32495-000_2016-09-30_01_2016-12-22.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aai-cc-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aai-cc-001_E32495-000_2016-09-30_01_2016-12-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aar-cn-001_E32495-000_2016-09-30_01_2016-12-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aar-cn-001_E32495-000_2016-09-30_01_2016-12-22.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aar-cn-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/jpaud-aar-cn-001_E32495-000_2016-09-30_01_2016-12-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0000000_header_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0105020_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/images/0101010_001.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/images/0101010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/images/0104010_001.jpg" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/jpcrp030000-asr-001_E32495-000_2016-09-30_01_2016-12-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200273/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016122200276" />
+    <id>ED2016122200276</id>
+    <docid>S1009CWY</docid>
+    <updated>2016-12-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016122200276" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200276/PublicDoc/0000000_header_jpcrp050300-esr-001_E32495-000_2016-12-22_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200276/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E32495-000_2016-12-22_01_2016-12-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200276/PublicDoc/jpcrp050300-esr-001_E32495-000_2016-12-22_01_2016-12-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200276/PublicDoc/jpcrp050300-esr-001_E32495-000_2016-12-22_01_2016-12-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200276/PublicDoc/jpcrp050300-esr-001_E32495-000_2016-12-22_01_2016-12-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016122200276/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 四半期報告書－第14期第3四半期(平成28年4月1日－平成28年6月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016081201745" />
+    <id>ED2016081201745</id>
+    <docid>S1008I0W</docid>
+    <updated>2016-08-12T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016081201745" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-06-30_01_2016-08-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-06-30_01_2016-08-12.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-06-30_01_2016-08-12_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/AuditDoc/jpaud-qrr-cc-001_E32495-000_2016-06-30_01_2016-08-12_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/0000000_header_jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/0101010_honbun_jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/0102010_honbun_jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/0103010_honbun_jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/0104010_honbun_jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/0200010_honbun_jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/jpcrp040300-q3r-001_E32495-000_2016-06-30_01_2016-08-12_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016081201745/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016072100048" />
+    <id>ED2016072100048</id>
+    <docid>S10088CF</docid>
+    <updated>2016-07-21T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016072100048" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072100048/PublicDoc/0000000_header_jpcrp050300-esr-001_E32495-000_2016-07-21_01_2016-07-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072100048/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E32495-000_2016-07-21_01_2016-07-21_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072100048/PublicDoc/jpcrp050300-esr-001_E32495-000_2016-07-21_01_2016-07-21.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072100048/PublicDoc/jpcrp050300-esr-001_E32495-000_2016-07-21_01_2016-07-21.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072100048/PublicDoc/jpcrp050300-esr-001_E32495-000_2016-07-21_01_2016-07-21_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072100048/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 訂正有価証券届出書（新規公開時）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016071100153" />
+    <id>ED2016071100153</id>
+    <docid>S10086DV</docid>
+    <updated>2016-07-11T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016071100153" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_03_2016-07-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_03_2016-07-11.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_03_2016-07-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_03_2016-07-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_03_2016-07-11.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_03_2016-07-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_03_2016-07-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_03_2016-07-11.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_03_2016-07-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_03_2016-07-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_03_2016-07-11.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_03_2016-07-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_03_2016-07-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_03_2016-07-11.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_03_2016-07-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0000000_header_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0101010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0201010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0202010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0203010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0204010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0205010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0205020_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0206010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0207010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0301010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/0401010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_003.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_004.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_005.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_006.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_007.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0101010_008.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0201010_001.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0201010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/images/0204010_001.jpg" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_03_2016-07-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016071100153/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 訂正有価証券届出書（新規公開時）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016070100209" />
+    <id>ED2016070100209</id>
+    <docid>S10084BL</docid>
+    <updated>2016-07-01T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016070100209" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_02_2016-07-01.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_02_2016-07-01.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_02_2016-07-01_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_02_2016-07-01.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_02_2016-07-01.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_02_2016-07-01_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_02_2016-07-01.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_02_2016-07-01.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_02_2016-07-01_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_02_2016-07-01.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_02_2016-07-01.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_02_2016-07-01_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_02_2016-07-01.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_02_2016-07-01.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_02_2016-07-01_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0000000_header_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0101010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0201010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0202010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0203010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0204010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0205010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0205020_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0206010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0207010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0301010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/0401010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_003.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_004.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_005.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_006.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_007.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0101010_008.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0201010_001.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0201010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/images/0204010_001.jpg" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_02_2016-07-01_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100209/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E32495】株式会社インソース 有価証券届出書（新規公開時）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016061700367" />
+    <id>ED2016061700367</id>
+    <docid>S1007RAF</docid>
+    <updated>2016-06-17T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016061700367" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_01_2016-06-17.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_01_2016-06-17.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cc-001_E32495-000_2015-09-30_01_2016-06-17_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_01_2016-06-17.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_01_2016-06-17.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-cn-001_E32495-000_2015-09-30_01_2016-06-17_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_01_2016-06-17.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_01_2016-06-17.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pc-001_E32495-000_2015-09-30_01_2016-06-17_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_01_2016-06-17.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_01_2016-06-17.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-aar-pn-001_E32495-000_2015-09-30_01_2016-06-17_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_01_2016-06-17.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_01_2016-06-17.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/jpaud-qrr-cc-001_E32495-000_2015-09-30_01_2016-06-17_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0000000_header_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0101010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0201010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0202010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0203010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0204010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0205010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0205020_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0206010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0207010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0301010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/0401010_honbun_jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_003.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_004.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_005.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_006.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_007.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0101010_008.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0201010_001.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0201010_002.jpg" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/images/0204010_001.jpg" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/jpcrp020400-srs-001_E32495-000_2015-09-30_01_2016-06-17_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016061700367/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+</feed>

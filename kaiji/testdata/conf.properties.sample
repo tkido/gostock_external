@@ -1,0 +1,3 @@
+# ダウンロードしたpdfファイルを置くフォルダ
+PdfRoot dir = I:\tmp\gostock\pdf
+#PdfRoot dir = /tmp/gostock/pdf

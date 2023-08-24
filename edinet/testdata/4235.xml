@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>有報キャッチャー - EDINET情報配信サービス</title>
+  <link href="http://resource.ufocatch.com/" />
+  <updated>2018-03-12T19:42:14Z</updated>
+  <id>http://resource.ufocatch.com/atom/edinetx/query/4235</id>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2018021401571" />
+    <id>ED2018021401571</id>
+    <docid>S100CCYR</docid>
+    <updated>2018-02-14T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2018021401571" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2018021401571/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2018-02-14_01_2018-02-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2018021401571/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2018-02-14_01_2018-02-14_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2018021401571/PublicDoc/jpcrp050300-esr-001_E01061-000_2018-02-14_01_2018-02-14.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2018021401571/PublicDoc/jpcrp050300-esr-001_E01061-000_2018-02-14_01_2018-02-14.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2018021401571/PublicDoc/jpcrp050300-esr-001_E01061-000_2018-02-14_01_2018-02-14_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2018021401571/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第53期第2四半期(平成29年7月1日－平成29年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017111401519" />
+    <id>ED2017111401519</id>
+    <docid>S100BS0D</docid>
+    <updated>2017-11-14T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017111401519" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-09-30_01_2017-11-14.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-09-30_01_2017-11-14.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-09-30_01_2017-11-14_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-09-30_01_2017-11-14_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/0000000_header_jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/0101010_honbun_jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/0102010_honbun_jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/0103010_honbun_jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/0104010_honbun_jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/0200010_honbun_jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/jpcrp040300-q2r-001_E01061-000_2017-09-30_01_2017-11-14_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017111401519/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017102700228" />
+    <id>ED2017102700228</id>
+    <docid>S100BKH3</docid>
+    <updated>2017-10-27T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017102700228" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102700228/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-10-23_02_2017-10-27_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102700228/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-10-23_02_2017-10-27_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102700228/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-10-23_02_2017-10-27.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102700228/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-10-23_02_2017-10-27.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102700228/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-10-23_02_2017-10-27_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102700228/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017102300116" />
+    <id>ED2017102300116</id>
+    <docid>S100BJIS</docid>
+    <updated>2017-10-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017102300116" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102300116/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-10-23_01_2017-10-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102300116/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-10-23_01_2017-10-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102300116/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-10-23_01_2017-10-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102300116/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-10-23_01_2017-10-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102300116/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-10-23_01_2017-10-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017102300116/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017092900569" />
+    <id>ED2017092900569</id>
+    <docid>S100BFGY</docid>
+    <updated>2017-09-29T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017092900569" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017092900569/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-09-29_01_2017-09-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017092900569/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-09-29_01_2017-09-29_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017092900569/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-09-29_01_2017-09-29.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017092900569/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-09-29_01_2017-09-29.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017092900569/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-09-29_01_2017-09-29_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017092900569/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第53期第1四半期(平成29年4月1日－平成29年6月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017081002643" />
+    <id>ED2017081002643</id>
+    <docid>S100B597</docid>
+    <updated>2017-08-10T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017081002643" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-06-30_01_2017-08-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-06-30_01_2017-08-10.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-06-30_01_2017-08-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/0000000_header_jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/0101010_honbun_jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/0102010_honbun_jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/0103010_honbun_jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/0104010_honbun_jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/0200010_honbun_jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2017-06-30_01_2017-08-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017081002643/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正有価証券報告書－第52期(平成28年4月1日－平成29年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017073100377" />
+    <id>ED2017073100377</id>
+    <docid>S100AYM2</docid>
+    <updated>2017-07-31T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017073100377" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_02_2017-07-31.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_02_2017-07-31.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_02_2017-07-31_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_02_2017-07-31.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_02_2017-07-31.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_02_2017-07-31_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0000000_header_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0105020_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/images/0104010_001.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_02_2017-07-31_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100377/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正内部統制報告書－第52期(平成28年4月1日－平成29年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017073100390" />
+    <id>ED2017073100390</id>
+    <docid>S100AYM3</docid>
+    <updated>2017-07-31T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017073100390" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100390/PublicDoc/0000000_header_jpctl010000-icr-001_E01061-000_2017-06-22_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100390/PublicDoc/0101010_honbun_jpctl010000-icr-001_E01061-000_2017-06-22_02_2017-07-31_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100390/PublicDoc/jpctl010000-icr-001_E01061-000_2017-06-22_02_2017-07-31.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100390/PublicDoc/jpctl010000-icr-001_E01061-000_2017-06-22_02_2017-07-31.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100390/PublicDoc/jpctl010000-icr-001_E01061-000_2017-06-22_02_2017-07-31_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017073100390/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017071800144" />
+    <id>ED2017071800144</id>
+    <docid>S100AVWJ</docid>
+    <updated>2017-07-18T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017071800144" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017071800144/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-07-18_01_2017-07-18_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017071800144/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-07-18_01_2017-07-18_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017071800144/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-07-18_01_2017-07-18.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017071800144/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-07-18_01_2017-07-18.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017071800144/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-07-18_01_2017-07-18_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017071800144/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017062300596" />
+    <id>ED2017062300596</id>
+    <docid>S100AGXW</docid>
+    <updated>2017-06-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017062300596" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062300596/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-06-23_01_2017-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062300596/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-06-23_01_2017-06-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062300596/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-06-23_01_2017-06-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062300596/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-06-23_01_2017-06-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062300596/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-06-23_01_2017-06-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062300596/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書－第52期(平成28年4月1日－平成29年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017062200388" />
+    <id>ED2017062200388</id>
+    <docid>S100AGXR</docid>
+    <updated>2017-06-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017062200388" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_01_2017-06-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_01_2017-06-22.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aai-cc-001_E01061-000_2017-03-31_01_2017-06-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_01_2017-06-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_01_2017-06-22.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-03-31_01_2017-06-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0000000_header_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0105020_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/images/0104010_001.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/jpcrp030000-asr-001_E01061-000_2017-03-31_01_2017-06-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200388/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 内部統制報告書－第52期(平成28年4月1日－平成29年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017062200396" />
+    <id>ED2017062200396</id>
+    <docid>S100AGXT</docid>
+    <updated>2017-06-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017062200396" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200396/PublicDoc/0000000_header_jpctl010000-icr-001_E01061-000_2017-06-22_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200396/PublicDoc/0101010_honbun_jpctl010000-icr-001_E01061-000_2017-06-22_01_2017-06-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200396/PublicDoc/jpctl010000-icr-001_E01061-000_2017-06-22_01_2017-06-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200396/PublicDoc/jpctl010000-icr-001_E01061-000_2017-06-22_01_2017-06-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200396/PublicDoc/jpctl010000-icr-001_E01061-000_2017-06-22_01_2017-06-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017062200396/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017052200152" />
+    <id>ED2017052200152</id>
+    <docid>S100A8Z1</docid>
+    <updated>2017-05-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017052200152" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200152/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200152/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200152/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200152/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200152/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200152/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017052200153" />
+    <id>ED2017052200153</id>
+    <docid>S100A8Z0</docid>
+    <updated>2017-05-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017052200153" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200153/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200153/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200153/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200153/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200153/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-05-22_01_2017-05-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017052200153/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017022300143" />
+    <id>ED2017022300143</id>
+    <docid>S1009S1I</docid>
+    <updated>2017-02-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017022300143" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300143/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2017-02-23_01_2017-02-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300143/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2017-02-23_01_2017-02-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300143/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-02-23_01_2017-02-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300143/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-02-23_01_2017-02-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300143/PublicDoc/jpcrp050300-esr-001_E01061-000_2017-02-23_01_2017-02-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300143/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正有価証券届出書（組込方式）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017022300144" />
+    <id>ED2017022300144</id>
+    <docid>S1009S1J</docid>
+    <updated>2017-02-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017022300144" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_04_2017-02-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_04_2017-02-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_04_2017-02-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_04_2017-02-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_04_2017-02-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_04_2017-02-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_04_2017-02-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_04_2017-02-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_04_2017-02-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_04_2017-02-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_04_2017-02-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_04_2017-02-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/0000000_header_jpcrp020200-srs-001_E01061-000_2017-01-23_04_2017-02-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/0101010_honbun_jpcrp020200-srs-001_E01061-000_2017-01-23_04_2017-02-23_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/images/0101010_002.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_04_2017-02-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_04_2017-02-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_04_2017-02-23_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_04_2017-02-23_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_04_2017-02-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017022300144/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第52期第3四半期(平成28年10月1日－平成28年12月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017021001389" />
+    <id>ED2017021001389</id>
+    <docid>S1009MVC</docid>
+    <updated>2017-02-10T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017021001389" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-12-31_01_2017-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-12-31_01_2017-02-10.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-12-31_01_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-12-31_01_2017-02-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/0000000_header_jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/0101010_honbun_jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/0102010_honbun_jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/0103010_honbun_jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/0104010_honbun_jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/0200010_honbun_jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/jpcrp040300-q3r-001_E01061-000_2016-12-31_01_2017-02-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001389/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正有価証券届出書（組込方式）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017021001494" />
+    <id>ED2017021001494</id>
+    <docid>S1009MV5</docid>
+    <updated>2017-02-10T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017021001494" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_03_2017-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_03_2017-02-10.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_03_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_03_2017-02-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_03_2017-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_03_2017-02-10.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_03_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_03_2017-02-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_03_2017-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_03_2017-02-10.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_03_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_03_2017-02-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/0000000_header_jpcrp020200-srs-001_E01061-000_2017-01-23_03_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/0101010_honbun_jpcrp020200-srs-001_E01061-000_2017-01-23_03_2017-02-10_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/images/0101010_002.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_03_2017-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_03_2017-02-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_03_2017-02-10_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_03_2017-02-10_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_03_2017-02-10_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017021001494/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正有価証券届出書（組込方式）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017012400117" />
+    <id>ED2017012400117</id>
+    <docid>S1009HLG</docid>
+    <updated>2017-01-24T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017012400117" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_02_2017-01-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_02_2017-01-24.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_02_2017-01-24_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_02_2017-01-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_02_2017-01-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_02_2017-01-24.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_02_2017-01-24_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_02_2017-01-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_02_2017-01-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_02_2017-01-24.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_02_2017-01-24_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_02_2017-01-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/0000000_header_jpcrp020200-srs-001_E01061-000_2017-01-23_02_2017-01-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/0101010_honbun_jpcrp020200-srs-001_E01061-000_2017-01-23_02_2017-01-24_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/images/0101010_002.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_02_2017-01-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_02_2017-01-24.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_02_2017-01-24_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_02_2017-01-24_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_02_2017-01-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012400117/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券届出書（組込方式）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2017012300102" />
+    <id>ED2017012300102</id>
+    <docid>S1009F7T</docid>
+    <updated>2017-01-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2017012300102" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_01_2017-01-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_01_2017-01-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_01_2017-01-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cc-001_E01061-000_2017-01-23_01_2017-01-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_01_2017-01-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_01_2017-01-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_01_2017-01-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-aar-cn-001_E01061-000_2017-01-23_01_2017-01-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_01_2017-01-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_01_2017-01-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_01_2017-01-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/jpaud-qrr-cc-001_E01061-000_2017-01-23_01_2017-01-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/0000000_header_jpcrp020200-srs-001_E01061-000_2017-01-23_01_2017-01-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/0101010_honbun_jpcrp020200-srs-001_E01061-000_2017-01-23_01_2017-01-23_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/images/0101010_002.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_01_2017-01-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_01_2017-01-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_01_2017-01-23_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_01_2017-01-23_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/jpcrp020200-srs-001_E01061-000_2017-01-23_01_2017-01-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2017012300102/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016121200103" />
+    <id>ED2016121200103</id>
+    <docid>S1009A1O</docid>
+    <updated>2016-12-12T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016121200103" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016121200103/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2016-11-25_02_2016-12-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016121200103/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2016-11-25_02_2016-12-12_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016121200103/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-11-25_02_2016-12-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016121200103/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-11-25_02_2016-12-12.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016121200103/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-11-25_02_2016-12-12_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016121200103/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016112500282" />
+    <id>ED2016112500282</id>
+    <docid>S10096HF</docid>
+    <updated>2016-11-25T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016112500282" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016112500282/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2016-11-25_01_2016-11-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016112500282/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2016-11-25_01_2016-11-25_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016112500282/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-11-25_01_2016-11-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016112500282/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-11-25_01_2016-11-25.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016112500282/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-11-25_01_2016-11-25_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016112500282/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第52期第2四半期(平成28年7月1日－平成28年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016111101797" />
+    <id>ED2016111101797</id>
+    <docid>S10091YT</docid>
+    <updated>2016-11-11T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016111101797" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-09-30_01_2016-11-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-09-30_01_2016-11-11.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-09-30_01_2016-11-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-09-30_01_2016-11-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/0000000_header_jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/0101010_honbun_jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/0102010_honbun_jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/0103010_honbun_jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/0104010_honbun_jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/0200010_honbun_jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/jpcrp040300-q2r-001_E01061-000_2016-09-30_01_2016-11-11_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016111101797/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016092300254" />
+    <id>ED2016092300254</id>
+    <docid>S1008O8E</docid>
+    <updated>2016-09-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016092300254" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016092300254/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2016-08-22_02_2016-09-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016092300254/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2016-08-22_02_2016-09-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016092300254/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-08-22_02_2016-09-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016092300254/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-08-22_02_2016-09-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016092300254/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-08-22_02_2016-09-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016092300254/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016082200125" />
+    <id>ED2016082200125</id>
+    <docid>S1008J91</docid>
+    <updated>2016-08-22T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016082200125" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016082200125/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2016-08-22_01_2016-08-22_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016082200125/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2016-08-22_01_2016-08-22_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016082200125/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-08-22_01_2016-08-22.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016082200125/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-08-22_01_2016-08-22.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016082200125/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-08-22_01_2016-08-22_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016082200125/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第52期第1四半期(平成28年4月1日－平成28年6月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016080900643" />
+    <id>ED2016080900643</id>
+    <docid>S1008E96</docid>
+    <updated>2016-08-09T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016080900643" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-06-30_01_2016-08-09.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-06-30_01_2016-08-09.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-06-30_01_2016-08-09_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/AuditDoc/jpaud-qrr-cc-001_E01061-000_2016-06-30_01_2016-08-09_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/0000000_header_jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/0101010_honbun_jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/0102010_honbun_jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/0103010_honbun_jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/0104010_honbun_jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/0200010_honbun_jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/jpcrp040300-q1r-001_E01061-000_2016-06-30_01_2016-08-09_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016080900643/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正有価証券報告書－第51期(平成27年4月1日－平成28年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016072900090" />
+    <id>ED2016072900090</id>
+    <docid>S1008A2J</docid>
+    <updated>2016-07-29T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016072900090" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_02_2016-07-29.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_02_2016-07-29.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_02_2016-07-29_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_02_2016-07-29.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_02_2016-07-29.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_02_2016-07-29_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0000000_header_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0105020_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_ixbrl.htm" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/images/0101010_001.jpg" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/images/0104010_001.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_02_2016-07-29_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016072900090/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016070100408" />
+    <id>ED2016070100408</id>
+    <docid>S100832Q</docid>
+    <updated>2016-07-01T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016070100408" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100408/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2016-07-01_01_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100408/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2016-07-01_01_2016-07-01_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100408/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-07-01_01_2016-07-01.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100408/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-07-01_01_2016-07-01.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100408/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-07-01_01_2016-07-01_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016070100408/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016062401541" />
+    <id>ED2016062401541</id>
+    <docid>S1007MUW</docid>
+    <updated>2016-06-24T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016062401541" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062401541/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2016-06-24_01_2016-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062401541/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2016-06-24_01_2016-06-24_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062401541/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-06-24_01_2016-06-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062401541/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-06-24_01_2016-06-24.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062401541/PublicDoc/jpcrp050300-esr-001_E01061-000_2016-06-24_01_2016-06-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062401541/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書－第51期(平成27年4月1日－平成28年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016062300453" />
+    <id>ED2016062300453</id>
+    <docid>S1007MUU</docid>
+    <updated>2016-06-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016062300453" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_01_2016-06-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_01_2016-06-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aai-cc-001_E01061-000_2016-03-31_01_2016-06-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_01_2016-06-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_01_2016-06-23.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/jpaud-aar-cn-001_E01061-000_2016-03-31_01_2016-06-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0000000_header_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0105020_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="image/jpeg" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/images/0101010_001.jpg" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/images/0104010_001.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/jpcrp030000-asr-001_E01061-000_2016-03-31_01_2016-06-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300453/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 内部統制報告書－第51期(平成27年4月1日－平成28年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016062300455" />
+    <id>ED2016062300455</id>
+    <docid>S1007MUX</docid>
+    <updated>2016-06-23T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016062300455" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300455/PublicDoc/0000000_header_jpctl010000-icr-001_E01061-000_2016-06-23_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300455/PublicDoc/0101010_honbun_jpctl010000-icr-001_E01061-000_2016-06-23_01_2016-06-23_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300455/PublicDoc/jpctl010000-icr-001_E01061-000_2016-06-23_01_2016-06-23.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300455/PublicDoc/jpctl010000-icr-001_E01061-000_2016-06-23_01_2016-06-23.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300455/PublicDoc/jpctl010000-icr-001_E01061-000_2016-06-23_01_2016-06-23_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016062300455/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第51期第3四半期(平成27年10月1日－平成27年12月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2016021201164" />
+    <id>ED2016021201164</id>
+    <docid>S1006UQL</docid>
+    <updated>2016-02-12T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2016021201164" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-12-31_01_2016-02-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-12-31_01_2016-02-12.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-12-31_01_2016-02-12_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-12-31_01_2016-02-12_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/0000000_header_jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/0101010_honbun_jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/0102010_honbun_jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/0103010_honbun_jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/0104010_honbun_jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/0200010_honbun_jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/jpcrp040300-q3r-001_E01061-000_2015-12-31_01_2016-02-12_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2016021201164/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第51期第2四半期(平成27年7月1日－平成27年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015111302433" />
+    <id>ED2015111302433</id>
+    <docid>S1006CYX</docid>
+    <updated>2015-11-13T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015111302433" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-09-30_01_2015-11-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-09-30_01_2015-11-13.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-09-30_01_2015-11-13_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-09-30_01_2015-11-13_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/0000000_header_jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/0101010_honbun_jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/0102010_honbun_jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/0103010_honbun_jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/0104010_honbun_jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/0200010_honbun_jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/jpcrp040300-q2r-001_E01061-000_2015-09-30_01_2015-11-13_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015111302433/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第51期第1四半期(平成27年4月1日－平成27年6月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015080700886" />
+    <id>ED2015080700886</id>
+    <docid>S1005IZ1</docid>
+    <updated>2015-08-07T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015080700886" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-06-30_01_2015-08-07.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-06-30_01_2015-08-07.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-06-30_01_2015-08-07_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/AuditDoc/jpaud-qrr-cc-001_E01061-000_2015-06-30_01_2015-08-07_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/0000000_header_jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/0101010_honbun_jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/0102010_honbun_jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/0103010_honbun_jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/0104010_honbun_jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/0200010_honbun_jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/jpcrp040300-q1r-001_E01061-000_2015-06-30_01_2015-08-07_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015080700886/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015062501637" />
+    <id>ED2015062501637</id>
+    <docid>S100526M</docid>
+    <updated>2015-06-25T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015062501637" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062501637/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2015-06-25_01_2015-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062501637/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2015-06-25_01_2015-06-25_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062501637/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-06-25_01_2015-06-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062501637/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-06-25_01_2015-06-25.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062501637/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-06-25_01_2015-06-25_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062501637/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書－第50期(平成26年4月1日－平成27年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015062400359" />
+    <id>ED2015062400359</id>
+    <docid>S1005267</docid>
+    <updated>2015-06-24T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015062400359" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aai-cc-001_E01061-000_2015-03-31_01_2015-06-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aai-cc-001_E01061-000_2015-03-31_01_2015-06-24.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aai-cc-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aai-cc-001_E01061-000_2015-03-31_01_2015-06-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aar-cn-001_E01061-000_2015-03-31_01_2015-06-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aar-cn-001_E01061-000_2015-03-31_01_2015-06-24.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aar-cn-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/jpaud-aar-cn-001_E01061-000_2015-03-31_01_2015-06-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0000000_header_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0105020_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/images/0104010_001.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/jpcrp030000-asr-001_E01061-000_2015-03-31_01_2015-06-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400359/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 内部統制報告書－第50期(平成26年4月1日－平成27年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015062400360" />
+    <id>ED2015062400360</id>
+    <docid>S100526C</docid>
+    <updated>2015-06-24T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015062400360" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400360/PublicDoc/0000000_header_jpctl010000-icr-001_E01061-000_2015-06-24_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400360/PublicDoc/0101010_honbun_jpctl010000-icr-001_E01061-000_2015-06-24_01_2015-06-24_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400360/PublicDoc/jpctl010000-icr-001_E01061-000_2015-06-24_01_2015-06-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400360/PublicDoc/jpctl010000-icr-001_E01061-000_2015-06-24_01_2015-06-24.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400360/PublicDoc/jpctl010000-icr-001_E01061-000_2015-06-24_01_2015-06-24_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015062400360/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 訂正臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015042100001" />
+    <id>ED2015042100001</id>
+    <docid>S1004JVJ</docid>
+    <updated>2015-04-21T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015042100001" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015042100001/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2015-03-13_02_2015-04-21_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015042100001/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2015-03-13_02_2015-04-21_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015042100001/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-03-13_02_2015-04-21.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015042100001/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-03-13_02_2015-04-21.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015042100001/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-03-13_02_2015-04-21_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015042100001/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015031300378" />
+    <id>ED2015031300378</id>
+    <docid>S1004A9H</docid>
+    <updated>2015-03-13T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015031300378" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015031300378/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2015-03-13_01_2015-03-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015031300378/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2015-03-13_01_2015-03-13_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015031300378/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-03-13_01_2015-03-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015031300378/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-03-13_01_2015-03-13.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015031300378/PublicDoc/jpcrp050300-esr-001_E01061-000_2015-03-13_01_2015-03-13_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015031300378/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第50期第3四半期(平成26年10月1日－平成26年12月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2015021302477" />
+    <id>ED2015021302477</id>
+    <docid>S1003Y13</docid>
+    <updated>2015-02-13T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2015021302477" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-12-31_01_2015-02-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-12-31_01_2015-02-13.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-12-31_01_2015-02-13_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-12-31_01_2015-02-13_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/0000000_header_jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/0101010_honbun_jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/0102010_honbun_jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/0103010_honbun_jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/0104010_honbun_jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/0200010_honbun_jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/jpcrp040300-q3r-001_E01061-000_2014-12-31_01_2015-02-13_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2015021302477/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第50期第2四半期(平成26年7月1日－平成26年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2014111400259" />
+    <id>ED2014111400259</id>
+    <docid>S1003H7N</docid>
+    <updated>2014-11-14T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2014111400259" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-09-30_01_2014-11-14.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-09-30_01_2014-11-14.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-09-30_01_2014-11-14_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-09-30_01_2014-11-14_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/0000000_header_jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/0101010_honbun_jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/0102010_honbun_jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/0103010_honbun_jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/0104010_honbun_jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/0200010_honbun_jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/jpcrp040300-q2r-001_E01061-000_2014-09-30_01_2014-11-14_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014111400259/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第50期第1四半期(平成26年4月1日－平成26年6月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2014080801324" />
+    <id>ED2014080801324</id>
+    <docid>S1002RDQ</docid>
+    <updated>2014-08-08T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2014080801324" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-06-30_01_2014-08-08.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-06-30_01_2014-08-08.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-06-30_01_2014-08-08_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/AuditDoc/jpaud-qrr-cc-001_E01061-000_2014-06-30_01_2014-08-08_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/0000000_header_jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/0101010_honbun_jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/0102010_honbun_jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/0103010_honbun_jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/0104010_honbun_jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/0200010_honbun_jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/jpcrp040300-q1r-001_E01061-000_2014-06-30_01_2014-08-08_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014080801324/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 臨時報告書</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2014062600259" />
+    <id>ED2014062600259</id>
+    <docid>S10026E3</docid>
+    <updated>2014-06-26T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2014062600259" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062600259/PublicDoc/0000000_header_jpcrp050300-esr-001_E01061-000_2014-06-26_01_2014-06-26_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062600259/PublicDoc/0100010_honbun_jpcrp050300-esr-001_E01061-000_2014-06-26_01_2014-06-26_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062600259/PublicDoc/jpcrp050300-esr-001_E01061-000_2014-06-26_01_2014-06-26.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062600259/PublicDoc/jpcrp050300-esr-001_E01061-000_2014-06-26_01_2014-06-26.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062600259/PublicDoc/jpcrp050300-esr-001_E01061-000_2014-06-26_01_2014-06-26_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062600259/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書－第49期(平成25年4月1日－平成26年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2014062500974" />
+    <id>ED2014062500974</id>
+    <docid>S10026BR</docid>
+    <updated>2014-06-25T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2014062500974" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aai-cc-001_E01061-000_2014-03-31_01_2014-06-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aai-cc-001_E01061-000_2014-03-31_01_2014-06-25.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aai-cc-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aai-cc-001_E01061-000_2014-03-31_01_2014-06-25_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aar-cn-001_E01061-000_2014-03-31_01_2014-06-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aar-cn-001_E01061-000_2014-03-31_01_2014-06-25.xsd" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aar-cn-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/jpaud-aar-cn-001_E01061-000_2014-03-31_01_2014-06-25_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/AuditDoc/manifest_AuditDoc.xml" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0000000_header_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0101010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0102010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0103010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0104010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0105010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0106010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0107010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/0200010_honbun_jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/images/0101010_001.png" />
+    <link rel="related" type="image/png" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/images/0104010_001.png" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_cal.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_def.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_lab.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_lab-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/jpcrp030000-asr-001_E01061-000_2014-03-31_01_2014-06-25_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500974/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 内部統制報告書－第49期(平成25年4月1日－平成26年3月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2014062500979" />
+    <id>ED2014062500979</id>
+    <docid>S10026C5</docid>
+    <updated>2014-06-25T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2014062500979" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500979/PublicDoc/0000000_header_jpctl010000-icr-001_E01061-000_2014-06-25_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/html" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500979/PublicDoc/0101010_honbun_jpctl010000-icr-001_E01061-000_2014-06-25_01_2014-06-25_ixbrl.htm" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500979/PublicDoc/jpctl010000-icr-001_E01061-000_2014-06-25_01_2014-06-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500979/PublicDoc/jpctl010000-icr-001_E01061-000_2014-06-25_01_2014-06-25.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500979/PublicDoc/jpctl010000-icr-001_E01061-000_2014-06-25_01_2014-06-25_pre.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014062500979/PublicDoc/manifest_PublicDoc.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第49期第3四半期(平成25年10月1日－平成25年12月31日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2014020700355" />
+    <id>ED2014020700355</id>
+    <docid>S100115Z</docid>
+    <updated>2014-02-07T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2014020700355" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2014020700355/S100115Z/jpfr-q3r-E01061-000-2013-12-31-01-2014-02-07-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書－第49期第2四半期(平成25年7月1日－平成25年9月30日)</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2013111400737" />
+    <id>ED2013111400737</id>
+    <docid>S1000BA6</docid>
+    <updated>2013-11-14T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2013111400737" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013111400737/S1000BA6/jpfr-q2r-E01061-000-2013-09-30-01-2013-11-14-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第49期 第1四半期（平成25年4月1日 ‐ 平成25年6月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2013080901527" />
+    <id>ED2013080901527</id>
+    <docid>S000E885</docid>
+    <updated>2013-08-09T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2013080901527" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013080901527/S000E885/jpfr-q1r-E01061-000-2013-06-30-01-2013-08-09-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書 ‐ 第48期（平成24年4月1日 ‐ 平成25年3月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2013062500444" />
+    <id>ED2013062500444</id>
+    <docid>S000DMH3</docid>
+    <updated>2013-06-25T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2013062500444" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013062500444/S000DMH3/jpfr-asr-E01061-000-2013-03-31-01-2013-06-25-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第48期 第3四半期（平成24年10月1日 ‐ 平成24年12月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2013020800296" />
+    <id>ED2013020800296</id>
+    <docid>S000CS7H</docid>
+    <updated>2013-02-08T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2013020800296" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2013020800296/S000CS7H/jpfr-q3r-E01061-000-2012-12-31-01-2013-02-08-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第48期 第2四半期（平成24年7月1日 ‐ 平成24年9月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2012110900986" />
+    <id>ED2012110900986</id>
+    <docid>S000C7OA</docid>
+    <updated>2012-11-09T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2012110900986" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012110900986/S000C7OA/jpfr-q2r-E01061-000-2012-09-30-01-2012-11-09-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第48期 第1四半期（平成24年4月1日 ‐ 平成24年6月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2012081001833" />
+    <id>ED2012081001833</id>
+    <docid>S000BPA9</docid>
+    <updated>2012-08-10T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2012081001833" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012081001833/S000BPA9/jpfr-q1r-E01061-000-2012-06-30-01-2012-08-10-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書 ‐ 第47期（平成23年4月1日 ‐ 平成24年3月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2012062600299" />
+    <id>ED2012062600299</id>
+    <docid>S000B5BI</docid>
+    <updated>2012-06-26T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2012062600299" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012062600299/S000B5BI/jpfr-asr-E01061-000-2012-03-31-01-2012-06-26-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第47期 第3四半期（平成23年10月1日 ‐ 平成23年12月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2012021000216" />
+    <id>ED2012021000216</id>
+    <docid>S000A8VX</docid>
+    <updated>2012-02-10T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2012021000216" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2012021000216/S000A8VX/jpfr-q3r-E01061-000-2011-12-31-01-2012-02-10-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第47期 第2四半期（平成23年7月1日 ‐ 平成23年9月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2011111101114" />
+    <id>ED2011111101114</id>
+    <docid>S0009O04</docid>
+    <updated>2011-11-11T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2011111101114" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011111101114/S0009O04/jpfr-q2r-E01061-000-2011-09-30-01-2011-11-11-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第47期 第1四半期（平成23年4月1日 ‐ 平成23年6月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2011080500100" />
+    <id>ED2011080500100</id>
+    <docid>S000913I</docid>
+    <updated>2011-08-05T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2011080500100" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011080500100/S000913I/jpfr-q1r-E01061-000-2011-06-30-01-2011-08-05-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書 ‐ 第46期（平成22年4月1日 ‐ 平成23年3月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2011062400628" />
+    <id>ED2011062400628</id>
+    <docid>S0008KIG</docid>
+    <updated>2011-06-24T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2011062400628" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011062400628/S0008KIG/jpfr-asr-E01061-000-2011-03-31-01-2011-06-24-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第46期 第3四半期（平成22年10月1日 ‐ 平成22年12月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2011021000434" />
+    <id>ED2011021000434</id>
+    <docid>S0007POI</docid>
+    <updated>2011-02-10T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2011021000434" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2011021000434/S0007POI/jpfr-q3r-E01061-000-2010-12-31-01-2011-02-10-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第46期 第2四半期（平成22年7月1日 ‐ 平成22年9月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2010111203034" />
+    <id>ED2010111203034</id>
+    <docid>S00074JI</docid>
+    <updated>2010-11-12T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2010111203034" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010111203034/S00074JI/jpfr-q2r-E01061-000-2010-09-30-01-2010-11-12-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第46期 第1四半期（平成22年4月1日 ‐ 平成22年6月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2010080600328" />
+    <id>ED2010080600328</id>
+    <docid>S0006GO4</docid>
+    <updated>2010-08-06T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2010080600328" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010080600328/S0006GO4/jpfr-q1r-E01061-000-2010-06-30-01-2010-08-06-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書 ‐ 第45期（平成21年4月1日 ‐ 平成22年3月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2010062501022" />
+    <id>ED2010062501022</id>
+    <docid>S00060QH</docid>
+    <updated>2010-06-25T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2010062501022" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010062501022/S00060QH/jpfr-asr-E01061-000-2010-03-31-01-2010-06-25-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第45期 第3四半期（平成21年10月1日 ‐ 平成21年12月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2010021201871" />
+    <id>ED2010021201871</id>
+    <docid>S000551R</docid>
+    <updated>2010-02-12T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2010021201871" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2010021201871/S000551R/jpfr-q3r-E01061-000-2009-12-31-01-2010-02-12-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第45期 第2四半期（平成21年7月1日 ‐ 平成21年9月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2009111300318" />
+    <id>ED2009111300318</id>
+    <docid>S0004LDG</docid>
+    <updated>2009-11-13T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2009111300318" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009111300318/S0004LDG/jpfr-q2r-E01061-000-2009-09-30-01-2009-11-13-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第45期 第1四半期（平成21年4月1日 ‐ 平成21年6月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2009080700117" />
+    <id>ED2009080700117</id>
+    <docid>S0003SSZ</docid>
+    <updated>2009-08-07T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2009080700117" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009080700117/S0003SSZ/jpfr-q1r-E01061-000-2009-06-30-01-2009-08-07-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 有価証券報告書 ‐ 第44期（平成20年4月1日 ‐ 平成21年3月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2009062600431" />
+    <id>ED2009062600431</id>
+    <docid>S0003FGS</docid>
+    <updated>2009-06-26T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2009062600431" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009062600431/S0003FGS/jpfr-asr-E01061-000-2009-03-31-01-2009-06-26-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第44期 第3四半期（平成20年10月1日 ‐ 平成20年12月31日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2009021300919" />
+    <id>ED2009021300919</id>
+    <docid>S0002FGF</docid>
+    <updated>2009-02-13T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2009021300919" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2009021300919/S0002FGF/jpfr-q3r-E01061-000-2008-12-31-01-2009-02-13-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第44期 第2四半期（平成20年7月1日 ‐ 平成20年9月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2008111400793" />
+    <id>ED2008111400793</id>
+    <docid>S0001TX7</docid>
+    <updated>2008-11-14T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2008111400793" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008111400793/S0001TX7/jpfr-q2r-E01061-000-2008-09-30-01-2008-11-14-presentation.xml" />
+  </entry>
+  <entry>
+    <title>【E01061】ウルトラファブリックス・ホールディングス株式会社 四半期報告書 ‐ 第44期 第1四半期（平成20年4月1日 ‐ 平成20年6月30日）</title>
+    <link rel="alternate" type="application/pdf" href="http://resource.ufocatch.com/pdf/edinet/ED2008080800295" />
+    <id>ED2008080800295</id>
+    <docid>S00010A3</docid>
+    <updated>2008-08-08T00:00:00+09:00</updated>
+    <link rel="related" type="application/zip" href="http://resource.ufocatch.com/data/edinet/ED2008080800295" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08.xbrl" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08.xsd" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08-calculation.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08-definition.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08-information.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08-label.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08-label-en.xml" />
+    <link rel="related" type="text/xml" href="http://resource.ufocatch.com/xbrl/edinet/ED2008080800295/S00010A3/jpfr-q1r-E01061-000-2008-06-30-01-2008-08-08-presentation.xml" />
+  </entry>
+</feed>

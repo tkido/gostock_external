@@ -1,0 +1,76 @@
+<html lang="jp">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>6200 インソース(2017.3)</title>
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="css/stock.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+	<div class="starter-template">
+	  <h2>6200 インソース(2017.3)</h2>
+	  <p> 企業等の人事部向けに講師派遣型研修、公開講座を運営。人事や営業サポートシステムも展開</p>
+	  <!-- Div that will hold the pie chart -->
+	  <h3>【連結事業】</h3>
+<div id="chart_4725040531345263117"></div>
+<h3>【海外】</h3>
+<div id="chart_2452700953186013615"></div>
+
+	  <div class="charts">
+		<h4>日足6ヶ月</h4>
+		<img src="https://chart.yahoo.co.jp/?code=6200.&amp;tm=6m&amp;type=c&amp;log=off&amp;size=n&amp;over=s,v,m25&amp;add=&amp;comp=" title="日足6か月 25d平均線">
+		<h4>週足2年</h4>
+		<img src="https://chart.yahoo.co.jp/?code=6200.&amp;tm=2y&amp;type=c&amp;log=off&amp;size=n&amp;over=s,v,m75&amp;add=&amp;comp=" title="週足2年 75d平均線">
+		<h4>月足10年</h4>
+		<img src="https://chart.yahoo.co.jp/?code=6200.&amp;tm=ay&amp;type=c&amp;log=off&amp;size=n&amp;over=s,v,m260&amp;add=&amp;comp=" title="月足10年 52w平均線">
+	  </div>
+
+		<img src="https://shares.gmo-click.com/valuation/graphs/bs_6200_10.png" />
+		<img src="https://shares.gmo-click.com/valuation/graphs/plh_6200_10.png" />
+		<img src="https://shares.gmo-click.com/valuation/graphs/cf_6200_10.png" />
+
+	  <!-- Load the AJAX API -->
+	  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	  <script type="text/javascript">
+		// Load the Visualization API and the piechart package.
+		google.load('visualization', '1.0', {'packages':['corechart']});
+
+		// Set a callback to run when the Google Visualization API is loaded.
+		google.setOnLoadCallback(drawChart);
+
+		// Callback that creates and populates a data table,
+		// instantiates the pie chart, passes in the data and
+		// draws it.
+		function drawChart() {
+		  // Set chart options
+		  var options = {'width':800,
+						 'height':400};
+		  // Create the data table.
+var data = new google.visualization.DataTable();
+data.addColumn('string', 'Tpic');
+data.addColumn('number', 'Slices');
+data.addRows([['国内通信(+23)', 35],['スプリント(+5)', 39],['ヤフー(+22)', 9],['流通(-1)', 14],['アーム(+11)', 1],['他(-13)', 1],['その他', 1]]);
+
+// Instantiate and draw our chart, passing in some options.
+var chart = new google.visualization.PieChart(document.getElementById('chart_4725040531345263117'));
+chart.draw(data, options);
+// Create the data table.
+var data = new google.visualization.DataTable();
+data.addColumn('string', 'Tpic');
+data.addColumn('number', 'Slices');
+data.addRows([['', 51],['その他', 49]]);
+
+// Instantiate and draw our chart, passing in some options.
+var chart = new google.visualization.PieChart(document.getElementById('chart_2452700953186013615'));
+chart.draw(data, options);
+
+		}
+	  </script>
+	</div>
+  </div>
+</body>
+</html>

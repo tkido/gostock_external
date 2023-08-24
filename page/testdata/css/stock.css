@@ -1,0 +1,14 @@
+.numbers {
+  text-align: right;
+}
+
+th {
+  padding: 2px;
+  text-align: center;
+}
+td {
+  padding: 2px;
+}
+td span.minus {
+  color: #ff0000;
+}

@@ -1,0 +1,16 @@
+# ログレベル
+LogLevel int = 5
+
+# ダウンロードしたpdfファイルを置くフォルダ
+PdfRoot dir = ./testdata
+#PdfRoot dir = /tmp/gostock/pdf
+
+# ダウンロードしたXBRLファイルを置くフォルダ
+XbrlRoot dir = ./testdata
+#XbrlRoot dir = /tmp/gostock/xbrl
+
+# 楽天RSSでエクセルの何行目から置くデータか
+Offset int = 4
+
+# 楽天RSSを使用するフラグ
+RealTime bool = true

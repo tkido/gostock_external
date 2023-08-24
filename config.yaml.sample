@@ -1,0 +1,9 @@
+offset: 2
+real-time: true
+update-check: true
+limit:
+  download: 1
+  process: 1
+path:
+  db: /home/jenkins/gostock_develop/db
+  html: /home/jenkins/gostock_develop/html
